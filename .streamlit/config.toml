@@ -1,0 +1,23 @@
+[theme]
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+baseRadius = "0.5rem"
+
+# Defining both a light and a dark theme lets users switch in ⋮ → Settings,
+# and the app follows the operating-system preference by default.
+[theme.light]
+primaryColor = "#2a78d6"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6f9"
+textColor = "#1f2328"
+
+[theme.dark]
+primaryColor = "#3987e5"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#161a22"
+textColor = "#f0efec"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false

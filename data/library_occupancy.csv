@@ -1,0 +1,1147 @@
+Timestamp,Building,Floor,Library_Zone,Total_Seats,Occupied_Seats,Available_Seats,Occupancy_Percentage,Day,Hour,Data_Source
+2026-10-29 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,36.0,114.0,24.0,Thursday,8,SIMULATED
+2026-10-29 08:00:00,Central Library,First Floor,Digital Library,60.0,7.0,53.0,11.67,Thursday,8,SIMULATED
+2026-10-29 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,22.0,58.0,27.5,Thursday,8,SIMULATED
+2026-10-29 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,10.0,38.0,20.83,Thursday,8,SIMULATED
+2026-10-29 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,8.0,82.0,8.89,Thursday,8,SIMULATED
+2026-10-29 08:00:00,Engineering Library,First Floor,Digital Library,40.0,4.0,36.0,10.0,Thursday,8,SIMULATED
+2026-10-29 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,58.0,92.0,38.67,Thursday,9,SIMULATED
+2026-10-29 09:00:00,Central Library,First Floor,Digital Library,60.0,18.0,42.0,30.0,Thursday,9,SIMULATED
+2026-10-29 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,32.0,48.0,40.0,Thursday,9,SIMULATED
+2026-10-29 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,10.0,38.0,20.83,Thursday,9,SIMULATED
+2026-10-29 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,36.0,54.0,40.0,Thursday,9,SIMULATED
+2026-10-29 09:00:00,Engineering Library,First Floor,Digital Library,40.0,14.0,26.0,35.0,Thursday,9,SIMULATED
+2026-10-29 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,83.0,67.0,55.33,Thursday,10,SIMULATED
+2026-10-29 10:00:00,Central Library,First Floor,Digital Library,60.0,32.0,28.0,53.33,Thursday,10,SIMULATED
+2026-10-29 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,48.0,32.0,60.0,Thursday,10,SIMULATED
+2026-10-29 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Thursday,10,SIMULATED
+2026-10-29 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,48.0,42.0,53.33,Thursday,10,SIMULATED
+2026-10-29 10:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Thursday,10,SIMULATED
+2026-10-29 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,107.0,43.0,71.33,Thursday,11,SIMULATED
+2026-10-29 11:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Thursday,11,SIMULATED
+2026-10-29 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,55.0,25.0,68.75,Thursday,11,SIMULATED
+2026-10-29 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,20.0,28.0,41.67,Thursday,11,SIMULATED
+2026-10-29 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,61.0,29.0,67.78,Thursday,11,SIMULATED
+2026-10-29 11:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Thursday,11,SIMULATED
+2026-10-29 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,89.0,61.0,59.33,Thursday,12,SIMULATED
+2026-10-29 12:00:00,Central Library,First Floor,Digital Library,60.0,30.0,30.0,50.0,Thursday,12,SIMULATED
+2026-10-29 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,55.0,25.0,68.75,Thursday,12,SIMULATED
+2026-10-29 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Thursday,12,SIMULATED
+2026-10-29 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,54.0,36.0,60.0,Thursday,12,SIMULATED
+2026-10-29 12:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Thursday,12,SIMULATED
+2026-10-29 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,124.0,26.0,82.67,Thursday,13,SIMULATED
+2026-10-29 13:00:00,Central Library,First Floor,Digital Library,60.0,34.0,26.0,56.67,Thursday,13,SIMULATED
+2026-10-29 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,56.0,24.0,70.0,Thursday,13,SIMULATED
+2026-10-29 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,21.0,27.0,43.75,Thursday,13,SIMULATED
+2026-10-29 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,61.0,29.0,67.78,Thursday,13,SIMULATED
+2026-10-29 13:00:00,Engineering Library,First Floor,Digital Library,40.0,25.0,15.0,62.5,Thursday,13,SIMULATED
+2026-10-29 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,122.0,28.0,81.33,Thursday,14,SIMULATED
+2026-10-29 14:00:00,Central Library,First Floor,Digital Library,60.0,39.0,21.0,65.0,Thursday,14,SIMULATED
+2026-10-29 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,65.0,15.0,81.25,Thursday,14,SIMULATED
+2026-10-29 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,29.0,19.0,60.42,Thursday,14,SIMULATED
+2026-10-29 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,72.0,18.0,80.0,Thursday,14,SIMULATED
+2026-10-29 14:00:00,Engineering Library,First Floor,Digital Library,40.0,28.0,12.0,70.0,Thursday,14,SIMULATED
+2026-10-29 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,126.0,24.0,84.0,Thursday,15,SIMULATED
+2026-10-29 15:00:00,Central Library,First Floor,Digital Library,60.0,46.0,14.0,76.67,Thursday,15,SIMULATED
+2026-10-29 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,74.0,6.0,92.5,Thursday,15,SIMULATED
+2026-10-29 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,30.0,18.0,62.5,Thursday,15,SIMULATED
+2026-10-29 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,78.0,12.0,86.67,Thursday,15,SIMULATED
+2026-10-29 15:00:00,Engineering Library,First Floor,Digital Library,40.0,29.0,11.0,72.5,Thursday,15,SIMULATED
+2026-10-29 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,132.0,18.0,88.0,Thursday,16,SIMULATED
+2026-10-29 16:00:00,Central Library,First Floor,Digital Library,60.0,43.0,17.0,71.67,Thursday,16,SIMULATED
+2026-10-29 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,72.0,8.0,90.0,Thursday,16,SIMULATED
+2026-10-29 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,30.0,18.0,62.5,Thursday,16,SIMULATED
+2026-10-29 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,62.0,28.0,68.89,Thursday,16,SIMULATED
+2026-10-29 16:00:00,Engineering Library,First Floor,Digital Library,40.0,26.0,14.0,65.0,Thursday,16,SIMULATED
+2026-10-29 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,104.0,46.0,69.33,Thursday,17,SIMULATED
+2026-10-29 17:00:00,Central Library,First Floor,Digital Library,60.0,34.0,26.0,56.67,Thursday,17,SIMULATED
+2026-10-29 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,59.0,21.0,73.75,Thursday,17,SIMULATED
+2026-10-29 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,28.0,20.0,58.33,Thursday,17,SIMULATED
+2026-10-29 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,55.0,35.0,61.11,Thursday,17,SIMULATED
+2026-10-29 17:00:00,Engineering Library,First Floor,Digital Library,40.0,25.0,15.0,62.5,Thursday,17,SIMULATED
+2026-10-29 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,75.0,75.0,50.0,Thursday,18,SIMULATED
+2026-10-29 18:00:00,Central Library,First Floor,Digital Library,60.0,29.0,31.0,48.33,Thursday,18,SIMULATED
+2026-10-29 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,51.0,29.0,63.75,Thursday,18,SIMULATED
+2026-10-29 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Thursday,18,SIMULATED
+2026-10-29 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,54.0,36.0,60.0,Thursday,18,SIMULATED
+2026-10-29 18:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Thursday,18,SIMULATED
+2026-10-29 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,75.0,75.0,50.0,Thursday,19,SIMULATED
+2026-10-29 19:00:00,Central Library,First Floor,Digital Library,60.0,25.0,35.0,41.67,Thursday,19,SIMULATED
+2026-10-29 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,48.0,32.0,60.0,Thursday,19,SIMULATED
+2026-10-29 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,17.0,31.0,35.42,Thursday,19,SIMULATED
+2026-10-29 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,36.0,54.0,40.0,Thursday,19,SIMULATED
+2026-10-29 19:00:00,Engineering Library,First Floor,Digital Library,40.0,14.0,26.0,35.0,Thursday,19,SIMULATED
+2026-10-29 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,52.0,98.0,34.67,Thursday,20,SIMULATED
+2026-10-29 20:00:00,Central Library,First Floor,Digital Library,60.0,22.0,38.0,36.67,Thursday,20,SIMULATED
+2026-10-29 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,34.0,46.0,42.5,Thursday,20,SIMULATED
+2026-10-29 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Thursday,20,SIMULATED
+2026-10-29 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,31.0,59.0,34.44,Thursday,20,SIMULATED
+2026-10-29 20:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Thursday,20,SIMULATED
+2026-10-29 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,43.0,107.0,28.67,Thursday,21,SIMULATED
+2026-10-29 21:00:00,Central Library,First Floor,Digital Library,60.0,12.0,48.0,20.0,Thursday,21,SIMULATED
+2026-10-29 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,23.0,57.0,28.75,Thursday,21,SIMULATED
+2026-10-29 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,6.0,42.0,12.5,Thursday,21,SIMULATED
+2026-10-29 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,19.0,71.0,21.11,Thursday,21,SIMULATED
+2026-10-29 21:00:00,Engineering Library,First Floor,Digital Library,40.0,7.0,33.0,17.5,Thursday,21,SIMULATED
+2026-10-30 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,22.0,128.0,14.67,Friday,8,SIMULATED
+2026-10-30 08:00:00,Central Library,First Floor,Digital Library,60.0,13.0,47.0,21.67,Friday,8,SIMULATED
+2026-10-30 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,16.0,64.0,20.0,Friday,8,SIMULATED
+2026-10-30 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,7.0,41.0,14.58,Friday,8,SIMULATED
+2026-10-30 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,21.0,69.0,23.33,Friday,8,SIMULATED
+2026-10-30 08:00:00,Engineering Library,First Floor,Digital Library,40.0,8.0,32.0,20.0,Friday,8,SIMULATED
+2026-10-30 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,63.0,87.0,42.0,Friday,9,SIMULATED
+2026-10-30 09:00:00,Central Library,First Floor,Digital Library,60.0,19.0,41.0,31.67,Friday,9,SIMULATED
+2026-10-30 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,30.0,50.0,37.5,Friday,9,SIMULATED
+2026-10-30 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,13.0,35.0,27.08,Friday,9,SIMULATED
+2026-10-30 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,22.0,68.0,24.44,Friday,9,SIMULATED
+2026-10-30 09:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Friday,9,SIMULATED
+2026-10-30 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,71.0,79.0,47.33,Friday,10,SIMULATED
+2026-10-30 10:00:00,Central Library,First Floor,Digital Library,60.0,24.0,36.0,40.0,Friday,10,SIMULATED
+2026-10-30 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,48.0,32.0,60.0,Friday,10,SIMULATED
+2026-10-30 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Friday,10,SIMULATED
+2026-10-30 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,43.0,47.0,47.78,Friday,10,SIMULATED
+2026-10-30 10:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Friday,10,SIMULATED
+2026-10-30 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,96.0,54.0,64.0,Friday,11,SIMULATED
+2026-10-30 11:00:00,Central Library,First Floor,Digital Library,60.0,36.0,24.0,60.0,Friday,11,SIMULATED
+2026-10-30 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,51.0,29.0,63.75,Friday,11,SIMULATED
+2026-10-30 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Friday,11,SIMULATED
+2026-10-30 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,50.0,40.0,55.56,Friday,11,SIMULATED
+2026-10-30 11:00:00,Engineering Library,First Floor,Digital Library,40.0,20.0,20.0,50.0,Friday,11,SIMULATED
+2026-10-30 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,101.0,49.0,67.33,Friday,12,SIMULATED
+2026-10-30 12:00:00,Central Library,First Floor,Digital Library,60.0,25.0,35.0,41.67,Friday,12,SIMULATED
+2026-10-30 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,54.0,26.0,67.5,Friday,12,SIMULATED
+2026-10-30 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Friday,12,SIMULATED
+2026-10-30 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,48.0,42.0,53.33,Friday,12,SIMULATED
+2026-10-30 12:00:00,Engineering Library,First Floor,Digital Library,40.0,16.0,24.0,40.0,Friday,12,SIMULATED
+2026-10-30 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,106.0,44.0,70.67,Friday,13,SIMULATED
+2026-10-30 13:00:00,Central Library,First Floor,Digital Library,60.0,34.0,26.0,56.67,Friday,13,SIMULATED
+2026-10-30 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,60.0,20.0,75.0,Friday,13,SIMULATED
+2026-10-30 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,24.0,24.0,50.0,Friday,13,SIMULATED
+2026-10-30 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,67.0,23.0,74.44,Friday,13,SIMULATED
+2026-10-30 13:00:00,Engineering Library,First Floor,Digital Library,40.0,22.0,18.0,55.0,Friday,13,SIMULATED
+2026-10-30 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,114.0,36.0,76.0,Friday,14,SIMULATED
+2026-10-30 14:00:00,Central Library,First Floor,Digital Library,60.0,42.0,18.0,70.0,Friday,14,SIMULATED
+2026-10-30 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,70.0,10.0,87.5,Friday,14,SIMULATED
+2026-10-30 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,31.0,17.0,64.58,Friday,14,SIMULATED
+2026-10-30 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,72.0,18.0,80.0,Friday,14,SIMULATED
+2026-10-30 14:00:00,Engineering Library,First Floor,Digital Library,40.0,27.0,13.0,67.5,Friday,14,SIMULATED
+2026-10-30 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,145.0,5.0,96.67,Friday,15,SIMULATED
+2026-10-30 15:00:00,Central Library,First Floor,Digital Library,60.0,41.0,19.0,68.33,Friday,15,SIMULATED
+2026-10-30 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,71.0,9.0,88.75,Friday,15,SIMULATED
+2026-10-30 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Friday,15,SIMULATED
+2026-10-30 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,71.0,19.0,78.89,Friday,15,SIMULATED
+2026-10-30 15:00:00,Engineering Library,First Floor,Digital Library,40.0,25.0,15.0,62.5,Friday,15,SIMULATED
+2026-10-30 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,132.0,18.0,88.0,Friday,16,SIMULATED
+2026-10-30 16:00:00,Central Library,First Floor,Digital Library,60.0,42.0,18.0,70.0,Friday,16,SIMULATED
+2026-10-30 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,64.0,16.0,80.0,Friday,16,SIMULATED
+2026-10-30 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,25.0,23.0,52.08,Friday,16,SIMULATED
+2026-10-30 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,71.0,19.0,78.89,Friday,16,SIMULATED
+2026-10-30 16:00:00,Engineering Library,First Floor,Digital Library,40.0,29.0,11.0,72.5,Friday,16,SIMULATED
+2026-10-30 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,126.0,24.0,84.0,Friday,17,SIMULATED
+2026-10-30 17:00:00,Central Library,First Floor,Digital Library,60.0,47.0,13.0,78.33,Friday,17,SIMULATED
+2026-10-30 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,62.0,18.0,77.5,Friday,17,SIMULATED
+2026-10-30 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,21.0,27.0,43.75,Friday,17,SIMULATED
+2026-10-30 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,48.0,42.0,53.33,Friday,17,SIMULATED
+2026-10-30 17:00:00,Engineering Library,First Floor,Digital Library,40.0,24.0,16.0,60.0,Friday,17,SIMULATED
+2026-10-30 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,83.0,67.0,55.33,Friday,18,SIMULATED
+2026-10-30 18:00:00,Central Library,First Floor,Digital Library,60.0,29.0,31.0,48.33,Friday,18,SIMULATED
+2026-10-30 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,47.0,33.0,58.75,Friday,18,SIMULATED
+2026-10-30 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,20.0,28.0,41.67,Friday,18,SIMULATED
+2026-10-30 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,55.0,35.0,61.11,Friday,18,SIMULATED
+2026-10-30 18:00:00,Engineering Library,First Floor,Digital Library,40.0,20.0,20.0,50.0,Friday,18,SIMULATED
+2026-10-30 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,77.0,73.0,51.33,Friday,19,SIMULATED
+2026-10-30 19:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Friday,19,SIMULATED
+2026-10-30 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,36.0,44.0,45.0,Friday,19,SIMULATED
+2026-10-30 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Friday,19,SIMULATED
+2026-10-30 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,43.0,47.0,47.78,Friday,19,SIMULATED
+2026-10-30 19:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Friday,19,SIMULATED
+2026-10-30 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,61.0,89.0,40.67,Friday,20,SIMULATED
+2026-10-30 20:00:00,Central Library,First Floor,Digital Library,60.0,24.0,36.0,40.0,Friday,20,SIMULATED
+2026-10-30 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,31.0,49.0,38.75,Friday,20,SIMULATED
+2026-10-30 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,10.0,38.0,20.83,Friday,20,SIMULATED
+2026-10-30 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,28.0,62.0,31.11,Friday,20,SIMULATED
+2026-10-30 20:00:00,Engineering Library,First Floor,Digital Library,40.0,11.0,29.0,27.5,Friday,20,SIMULATED
+2026-10-30 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,57.0,93.0,38.0,Friday,21,SIMULATED
+2026-10-30 21:00:00,Central Library,First Floor,Digital Library,60.0,10.0,50.0,16.67,Friday,21,SIMULATED
+2026-10-30 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,25.0,55.0,31.25,Friday,21,SIMULATED
+2026-10-30 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,6.0,42.0,12.5,Friday,21,SIMULATED
+2026-10-30 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,26.0,64.0,28.89,Friday,21,SIMULATED
+2026-10-30 21:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Friday,21,SIMULATED
+2026-10-31 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,17.0,133.0,11.33,Saturday,8,SIMULATED
+2026-10-31 08:00:00,Central Library,First Floor,Digital Library,60.0,6.0,54.0,10.0,Saturday,8,SIMULATED
+2026-10-31 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,7.0,73.0,8.75,Saturday,8,SIMULATED
+2026-10-31 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,5.0,43.0,10.42,Saturday,8,SIMULATED
+2026-10-31 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,8.0,82.0,8.89,Saturday,8,SIMULATED
+2026-10-31 08:00:00,Engineering Library,First Floor,Digital Library,40.0,1.0,39.0,2.5,Saturday,8,SIMULATED
+2026-10-31 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,20.0,130.0,13.33,Saturday,9,SIMULATED
+2026-10-31 09:00:00,Central Library,First Floor,Digital Library,60.0,11.0,49.0,18.33,Saturday,9,SIMULATED
+2026-10-31 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,25.0,55.0,31.25,Saturday,9,SIMULATED
+2026-10-31 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,7.0,41.0,14.58,Saturday,9,SIMULATED
+2026-10-31 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,17.0,73.0,18.89,Saturday,9,SIMULATED
+2026-10-31 09:00:00,Engineering Library,First Floor,Digital Library,40.0,7.0,33.0,17.5,Saturday,9,SIMULATED
+2026-10-31 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,57.0,93.0,38.0,Saturday,10,SIMULATED
+2026-10-31 10:00:00,Central Library,First Floor,Digital Library,60.0,16.0,44.0,26.67,Saturday,10,SIMULATED
+2026-10-31 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,23.0,57.0,28.75,Saturday,10,SIMULATED
+2026-10-31 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,13.0,35.0,27.08,Saturday,10,SIMULATED
+2026-10-31 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,27.0,63.0,30.0,Saturday,10,SIMULATED
+2026-10-31 10:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Saturday,10,SIMULATED
+2026-10-31 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,56.0,94.0,37.33,Saturday,11,SIMULATED
+2026-10-31 11:00:00,Central Library,First Floor,Digital Library,60.0,14.0,46.0,23.33,Saturday,11,SIMULATED
+2026-10-31 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,24.0,56.0,30.0,Saturday,11,SIMULATED
+2026-10-31 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,17.0,31.0,35.42,Saturday,11,SIMULATED
+2026-10-31 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,39.0,51.0,43.33,Saturday,11,SIMULATED
+2026-10-31 11:00:00,Engineering Library,First Floor,Digital Library,40.0,11.0,29.0,27.5,Saturday,11,SIMULATED
+2026-10-31 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,48.0,102.0,32.0,Saturday,12,SIMULATED
+2026-10-31 12:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Saturday,12,SIMULATED
+2026-10-31 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,23.0,57.0,28.75,Saturday,12,SIMULATED
+2026-10-31 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Saturday,12,SIMULATED
+2026-10-31 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,32.0,58.0,35.56,Saturday,12,SIMULATED
+2026-10-31 12:00:00,Engineering Library,First Floor,Digital Library,40.0,10.0,30.0,25.0,Saturday,12,SIMULATED
+2026-10-31 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,58.0,92.0,38.67,Saturday,13,SIMULATED
+2026-10-31 13:00:00,Central Library,First Floor,Digital Library,60.0,19.0,41.0,31.67,Saturday,13,SIMULATED
+2026-10-31 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,34.0,46.0,42.5,Saturday,13,SIMULATED
+2026-10-31 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,17.0,31.0,35.42,Saturday,13,SIMULATED
+2026-10-31 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,32.0,58.0,35.56,Saturday,13,SIMULATED
+2026-10-31 13:00:00,Engineering Library,First Floor,Digital Library,40.0,14.0,26.0,35.0,Saturday,13,SIMULATED
+2026-10-31 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,49.0,101.0,32.67,Saturday,14,SIMULATED
+2026-10-31 14:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Saturday,14,SIMULATED
+2026-10-31 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,34.0,46.0,42.5,Saturday,14,SIMULATED
+2026-10-31 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,12.0,36.0,25.0,Saturday,14,SIMULATED
+2026-10-31 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,33.0,57.0,36.67,Saturday,14,SIMULATED
+2026-10-31 14:00:00,Engineering Library,First Floor,Digital Library,40.0,14.0,26.0,35.0,Saturday,14,SIMULATED
+2026-10-31 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,81.0,69.0,54.0,Saturday,15,SIMULATED
+2026-10-31 15:00:00,Central Library,First Floor,Digital Library,60.0,20.0,40.0,33.33,Saturday,15,SIMULATED
+2026-10-31 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,41.0,39.0,51.25,Saturday,15,SIMULATED
+2026-10-31 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Saturday,15,SIMULATED
+2026-10-31 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,38.0,52.0,42.22,Saturday,15,SIMULATED
+2026-10-31 15:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Saturday,15,SIMULATED
+2026-10-31 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,74.0,76.0,49.33,Saturday,16,SIMULATED
+2026-10-31 16:00:00,Central Library,First Floor,Digital Library,60.0,28.0,32.0,46.67,Saturday,16,SIMULATED
+2026-10-31 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,38.0,42.0,47.5,Saturday,16,SIMULATED
+2026-10-31 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,14.0,34.0,29.17,Saturday,16,SIMULATED
+2026-10-31 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,37.0,53.0,41.11,Saturday,16,SIMULATED
+2026-10-31 16:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Saturday,16,SIMULATED
+2026-10-31 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,61.0,89.0,40.67,Saturday,17,SIMULATED
+2026-10-31 17:00:00,Central Library,First Floor,Digital Library,60.0,16.0,44.0,26.67,Saturday,17,SIMULATED
+2026-10-31 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,34.0,46.0,42.5,Saturday,17,SIMULATED
+2026-10-31 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,14.0,34.0,29.17,Saturday,17,SIMULATED
+2026-10-31 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,46.0,44.0,51.11,Saturday,17,SIMULATED
+2026-10-31 17:00:00,Engineering Library,First Floor,Digital Library,40.0,17.0,23.0,42.5,Saturday,17,SIMULATED
+2026-10-31 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,42.0,108.0,28.0,Saturday,18,SIMULATED
+2026-10-31 18:00:00,Central Library,First Floor,Digital Library,60.0,16.0,44.0,26.67,Saturday,18,SIMULATED
+2026-10-31 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,21.0,59.0,26.25,Saturday,18,SIMULATED
+2026-10-31 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Saturday,18,SIMULATED
+2026-10-31 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,29.0,61.0,32.22,Saturday,18,SIMULATED
+2026-10-31 18:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Saturday,18,SIMULATED
+2026-10-31 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,36.0,114.0,24.0,Saturday,19,SIMULATED
+2026-10-31 19:00:00,Central Library,First Floor,Digital Library,60.0,12.0,48.0,20.0,Saturday,19,SIMULATED
+2026-10-31 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,14.0,66.0,17.5,Saturday,19,SIMULATED
+2026-10-31 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Saturday,19,SIMULATED
+2026-10-31 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,18.0,72.0,20.0,Saturday,19,SIMULATED
+2026-10-31 19:00:00,Engineering Library,First Floor,Digital Library,40.0,8.0,32.0,20.0,Saturday,19,SIMULATED
+2026-10-31 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,25.0,125.0,16.67,Saturday,20,SIMULATED
+2026-10-31 20:00:00,Central Library,First Floor,Digital Library,60.0,11.0,49.0,18.33,Saturday,20,SIMULATED
+2026-10-31 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,10.0,70.0,12.5,Saturday,20,SIMULATED
+2026-10-31 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,3.0,45.0,6.25,Saturday,20,SIMULATED
+2026-10-31 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,30.0,60.0,33.33,Saturday,20,SIMULATED
+2026-10-31 20:00:00,Engineering Library,First Floor,Digital Library,40.0,4.0,36.0,10.0,Saturday,20,SIMULATED
+2026-10-31 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,11.0,139.0,7.33,Saturday,21,SIMULATED
+2026-10-31 21:00:00,Central Library,First Floor,Digital Library,60.0,14.0,46.0,23.33,Saturday,21,SIMULATED
+2026-10-31 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,25.0,55.0,31.25,Saturday,21,SIMULATED
+2026-10-31 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,1.0,47.0,2.08,Saturday,21,SIMULATED
+2026-10-31 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,9.0,81.0,10.0,Saturday,21,SIMULATED
+2026-10-31 21:00:00,Engineering Library,First Floor,Digital Library,40.0,5.0,35.0,12.5,Saturday,21,SIMULATED
+2026-11-01 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,34.0,116.0,22.67,Sunday,8,SIMULATED
+2026-11-01 08:00:00,Central Library,First Floor,Digital Library,60.0,3.0,57.0,5.0,Sunday,8,SIMULATED
+2026-11-01 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,9.0,71.0,11.25,Sunday,8,SIMULATED
+2026-11-01 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,6.0,42.0,12.5,Sunday,8,SIMULATED
+2026-11-01 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,12.0,78.0,13.33,Sunday,8,SIMULATED
+2026-11-01 08:00:00,Engineering Library,First Floor,Digital Library,40.0,3.0,37.0,7.5,Sunday,8,SIMULATED
+2026-11-01 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,30.0,120.0,20.0,Sunday,9,SIMULATED
+2026-11-01 09:00:00,Central Library,First Floor,Digital Library,60.0,6.0,54.0,10.0,Sunday,9,SIMULATED
+2026-11-01 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,16.0,64.0,20.0,Sunday,9,SIMULATED
+2026-11-01 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,6.0,42.0,12.5,Sunday,9,SIMULATED
+2026-11-01 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,19.0,71.0,21.11,Sunday,9,SIMULATED
+2026-11-01 09:00:00,Engineering Library,First Floor,Digital Library,40.0,5.0,35.0,12.5,Sunday,9,SIMULATED
+2026-11-01 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,50.0,100.0,33.33,Sunday,10,SIMULATED
+2026-11-01 10:00:00,Central Library,First Floor,Digital Library,60.0,19.0,41.0,31.67,Sunday,10,SIMULATED
+2026-11-01 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,26.0,54.0,32.5,Sunday,10,SIMULATED
+2026-11-01 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,11.0,37.0,22.92,Sunday,10,SIMULATED
+2026-11-01 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,25.0,65.0,27.78,Sunday,10,SIMULATED
+2026-11-01 10:00:00,Engineering Library,First Floor,Digital Library,40.0,10.0,30.0,25.0,Sunday,10,SIMULATED
+2026-11-01 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,48.0,102.0,32.0,Sunday,11,SIMULATED
+2026-11-01 11:00:00,Central Library,First Floor,Digital Library,60.0,20.0,40.0,33.33,Sunday,11,SIMULATED
+2026-11-01 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,30.0,50.0,37.5,Sunday,11,SIMULATED
+2026-11-01 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,18.0,30.0,37.5,Sunday,11,SIMULATED
+2026-11-01 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,39.0,51.0,43.33,Sunday,11,SIMULATED
+2026-11-01 11:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Sunday,11,SIMULATED
+2026-11-01 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,44.0,106.0,29.33,Sunday,12,SIMULATED
+2026-11-01 12:00:00,Central Library,First Floor,Digital Library,60.0,13.0,47.0,21.67,Sunday,12,SIMULATED
+2026-11-01 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,34.0,46.0,42.5,Sunday,12,SIMULATED
+2026-11-01 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,12.0,36.0,25.0,Sunday,12,SIMULATED
+2026-11-01 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,31.0,59.0,34.44,Sunday,12,SIMULATED
+2026-11-01 12:00:00,Engineering Library,First Floor,Digital Library,40.0,7.0,33.0,17.5,Sunday,12,SIMULATED
+2026-11-01 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,66.0,84.0,44.0,Sunday,13,SIMULATED
+2026-11-01 13:00:00,Central Library,First Floor,Digital Library,60.0,21.0,39.0,35.0,Sunday,13,SIMULATED
+2026-11-01 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,27.0,53.0,33.75,Sunday,13,SIMULATED
+2026-11-01 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,12.0,36.0,25.0,Sunday,13,SIMULATED
+2026-11-01 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,33.0,57.0,36.67,Sunday,13,SIMULATED
+2026-11-01 13:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Sunday,13,SIMULATED
+2026-11-01 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,65.0,85.0,43.33,Sunday,14,SIMULATED
+2026-11-01 14:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Sunday,14,SIMULATED
+2026-11-01 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,37.0,43.0,46.25,Sunday,14,SIMULATED
+2026-11-01 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Sunday,14,SIMULATED
+2026-11-01 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,45.0,45.0,50.0,Sunday,14,SIMULATED
+2026-11-01 14:00:00,Engineering Library,First Floor,Digital Library,40.0,8.0,32.0,20.0,Sunday,14,SIMULATED
+2026-11-01 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,70.0,80.0,46.67,Sunday,15,SIMULATED
+2026-11-01 15:00:00,Central Library,First Floor,Digital Library,60.0,25.0,35.0,41.67,Sunday,15,SIMULATED
+2026-11-01 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,42.0,38.0,52.5,Sunday,15,SIMULATED
+2026-11-01 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Sunday,15,SIMULATED
+2026-11-01 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,31.0,59.0,34.44,Sunday,15,SIMULATED
+2026-11-01 15:00:00,Engineering Library,First Floor,Digital Library,40.0,16.0,24.0,40.0,Sunday,15,SIMULATED
+2026-11-01 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,85.0,65.0,56.67,Sunday,16,SIMULATED
+2026-11-01 16:00:00,Central Library,First Floor,Digital Library,60.0,18.0,42.0,30.0,Sunday,16,SIMULATED
+2026-11-01 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,43.0,37.0,53.75,Sunday,16,SIMULATED
+2026-11-01 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Sunday,16,SIMULATED
+2026-11-01 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,38.0,52.0,42.22,Sunday,16,SIMULATED
+2026-11-01 16:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Sunday,16,SIMULATED
+2026-11-01 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,56.0,94.0,37.33,Sunday,17,SIMULATED
+2026-11-01 17:00:00,Central Library,First Floor,Digital Library,60.0,25.0,35.0,41.67,Sunday,17,SIMULATED
+2026-11-01 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,36.0,44.0,45.0,Sunday,17,SIMULATED
+2026-11-01 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,18.0,30.0,37.5,Sunday,17,SIMULATED
+2026-11-01 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,39.0,51.0,43.33,Sunday,17,SIMULATED
+2026-11-01 17:00:00,Engineering Library,First Floor,Digital Library,40.0,14.0,26.0,35.0,Sunday,17,SIMULATED
+2026-11-01 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,65.0,85.0,43.33,Sunday,18,SIMULATED
+2026-11-01 18:00:00,Central Library,First Floor,Digital Library,60.0,18.0,42.0,30.0,Sunday,18,SIMULATED
+2026-11-01 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,32.0,48.0,40.0,Sunday,18,SIMULATED
+2026-11-01 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,10.0,38.0,20.83,Sunday,18,SIMULATED
+2026-11-01 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,28.0,62.0,31.11,Sunday,18,SIMULATED
+2026-11-01 18:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Sunday,18,SIMULATED
+2026-11-01 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,52.0,98.0,34.67,Sunday,19,SIMULATED
+2026-11-01 19:00:00,Central Library,First Floor,Digital Library,60.0,10.0,50.0,16.67,Sunday,19,SIMULATED
+2026-11-01 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,28.0,52.0,35.0,Sunday,19,SIMULATED
+2026-11-01 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Sunday,19,SIMULATED
+2026-11-01 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,30.0,60.0,33.33,Sunday,19,SIMULATED
+2026-11-01 19:00:00,Engineering Library,First Floor,Digital Library,40.0,11.0,29.0,27.5,Sunday,19,SIMULATED
+2026-11-01 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,49.0,101.0,32.67,Sunday,20,SIMULATED
+2026-11-01 20:00:00,Central Library,First Floor,Digital Library,60.0,14.0,46.0,23.33,Sunday,20,SIMULATED
+2026-11-01 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,11.0,69.0,13.75,Sunday,20,SIMULATED
+2026-11-01 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,7.0,41.0,14.58,Sunday,20,SIMULATED
+2026-11-01 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,12.0,78.0,13.33,Sunday,20,SIMULATED
+2026-11-01 20:00:00,Engineering Library,First Floor,Digital Library,40.0,6.0,34.0,15.0,Sunday,20,SIMULATED
+2026-11-01 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,34.0,116.0,22.67,Sunday,21,SIMULATED
+2026-11-01 21:00:00,Central Library,First Floor,Digital Library,60.0,9.0,51.0,15.0,Sunday,21,SIMULATED
+2026-11-01 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,8.0,72.0,10.0,Sunday,21,SIMULATED
+2026-11-01 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,2.0,46.0,4.17,Sunday,21,SIMULATED
+2026-11-01 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,12.0,78.0,13.33,Sunday,21,SIMULATED
+2026-11-01 21:00:00,Engineering Library,First Floor,Digital Library,40.0,1.0,39.0,2.5,Sunday,21,SIMULATED
+2026-11-02 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,27.0,123.0,18.0,Monday,8,SIMULATED
+2026-11-02 08:00:00,Central Library,First Floor,Digital Library,60.0,12.0,48.0,20.0,Monday,8,SIMULATED
+2026-11-02 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,24.0,56.0,30.0,Monday,8,SIMULATED
+2026-11-02 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Monday,8,SIMULATED
+2026-11-02 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,6.0,84.0,6.67,Monday,8,SIMULATED
+2026-11-02 08:00:00,Engineering Library,First Floor,Digital Library,40.0,8.0,32.0,20.0,Monday,8,SIMULATED
+2026-11-02 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,58.0,92.0,38.67,Monday,9,SIMULATED
+2026-11-02 09:00:00,Central Library,First Floor,Digital Library,60.0,21.0,39.0,35.0,Monday,9,SIMULATED
+2026-11-02 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,40.0,40.0,50.0,Monday,9,SIMULATED
+2026-11-02 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,7.0,41.0,14.58,Monday,9,SIMULATED
+2026-11-02 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,28.0,62.0,31.11,Monday,9,SIMULATED
+2026-11-02 09:00:00,Engineering Library,First Floor,Digital Library,40.0,14.0,26.0,35.0,Monday,9,SIMULATED
+2026-11-02 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,68.0,82.0,45.33,Monday,10,SIMULATED
+2026-11-02 10:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Monday,10,SIMULATED
+2026-11-02 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,48.0,32.0,60.0,Monday,10,SIMULATED
+2026-11-02 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,21.0,27.0,43.75,Monday,10,SIMULATED
+2026-11-02 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,42.0,48.0,46.67,Monday,10,SIMULATED
+2026-11-02 10:00:00,Engineering Library,First Floor,Digital Library,40.0,20.0,20.0,50.0,Monday,10,SIMULATED
+2026-11-02 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,109.0,41.0,72.67,Monday,11,SIMULATED
+2026-11-02 11:00:00,Central Library,First Floor,Digital Library,60.0,34.0,26.0,56.67,Monday,11,SIMULATED
+2026-11-02 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,57.0,23.0,71.25,Monday,11,SIMULATED
+2026-11-02 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Monday,11,SIMULATED
+2026-11-02 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,50.0,40.0,55.56,Monday,11,SIMULATED
+2026-11-02 11:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Monday,11,SIMULATED
+2026-11-02 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,92.0,58.0,61.33,Monday,12,SIMULATED
+2026-11-02 12:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Monday,12,SIMULATED
+2026-11-02 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,57.0,23.0,71.25,Monday,12,SIMULATED
+2026-11-02 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,18.0,30.0,37.5,Monday,12,SIMULATED
+2026-11-02 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,51.0,39.0,56.67,Monday,12,SIMULATED
+2026-11-02 12:00:00,Engineering Library,First Floor,Digital Library,40.0,23.0,17.0,57.5,Monday,12,SIMULATED
+2026-11-02 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,98.0,52.0,65.33,Monday,13,SIMULATED
+2026-11-02 13:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Monday,13,SIMULATED
+2026-11-02 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,60.0,20.0,75.0,Monday,13,SIMULATED
+2026-11-02 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,26.0,22.0,54.17,Monday,13,SIMULATED
+2026-11-02 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,58.0,32.0,64.44,Monday,13,SIMULATED
+2026-11-02 13:00:00,Engineering Library,First Floor,Digital Library,40.0,26.0,14.0,65.0,Monday,13,SIMULATED
+2026-11-02 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,131.0,19.0,87.33,Monday,14,SIMULATED
+2026-11-02 14:00:00,Central Library,First Floor,Digital Library,60.0,45.0,15.0,75.0,Monday,14,SIMULATED
+2026-11-02 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,72.0,8.0,90.0,Monday,14,SIMULATED
+2026-11-02 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,34.0,14.0,70.83,Monday,14,SIMULATED
+2026-11-02 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,67.0,23.0,74.44,Monday,14,SIMULATED
+2026-11-02 14:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Monday,14,SIMULATED
+2026-11-02 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,146.0,4.0,97.33,Monday,15,SIMULATED
+2026-11-02 15:00:00,Central Library,First Floor,Digital Library,60.0,43.0,17.0,71.67,Monday,15,SIMULATED
+2026-11-02 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,74.0,6.0,92.5,Monday,15,SIMULATED
+2026-11-02 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,33.0,15.0,68.75,Monday,15,SIMULATED
+2026-11-02 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,64.0,26.0,71.11,Monday,15,SIMULATED
+2026-11-02 15:00:00,Engineering Library,First Floor,Digital Library,40.0,25.0,15.0,62.5,Monday,15,SIMULATED
+2026-11-02 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,112.0,38.0,74.67,Monday,16,SIMULATED
+2026-11-02 16:00:00,Central Library,First Floor,Digital Library,60.0,40.0,20.0,66.67,Monday,16,SIMULATED
+2026-11-02 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,73.0,7.0,91.25,Monday,16,SIMULATED
+2026-11-02 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,30.0,18.0,62.5,Monday,16,SIMULATED
+2026-11-02 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,71.0,19.0,78.89,Monday,16,SIMULATED
+2026-11-02 16:00:00,Engineering Library,First Floor,Digital Library,40.0,23.0,17.0,57.5,Monday,16,SIMULATED
+2026-11-02 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,87.0,63.0,58.0,Monday,17,SIMULATED
+2026-11-02 17:00:00,Central Library,First Floor,Digital Library,60.0,37.0,23.0,61.67,Monday,17,SIMULATED
+2026-11-02 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,58.0,22.0,72.5,Monday,17,SIMULATED
+2026-11-02 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,26.0,22.0,54.17,Monday,17,SIMULATED
+2026-11-02 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,63.0,27.0,70.0,Monday,17,SIMULATED
+2026-11-02 17:00:00,Engineering Library,First Floor,Digital Library,40.0,23.0,17.0,57.5,Monday,17,SIMULATED
+2026-11-02 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,97.0,53.0,64.67,Monday,18,SIMULATED
+2026-11-02 18:00:00,Central Library,First Floor,Digital Library,60.0,31.0,29.0,51.67,Monday,18,SIMULATED
+2026-11-02 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,53.0,27.0,66.25,Monday,18,SIMULATED
+2026-11-02 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,18.0,30.0,37.5,Monday,18,SIMULATED
+2026-11-02 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,49.0,41.0,54.44,Monday,18,SIMULATED
+2026-11-02 18:00:00,Engineering Library,First Floor,Digital Library,40.0,20.0,20.0,50.0,Monday,18,SIMULATED
+2026-11-02 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,85.0,65.0,56.67,Monday,19,SIMULATED
+2026-11-02 19:00:00,Central Library,First Floor,Digital Library,60.0,25.0,35.0,41.67,Monday,19,SIMULATED
+2026-11-02 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,46.0,34.0,57.5,Monday,19,SIMULATED
+2026-11-02 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,17.0,31.0,35.42,Monday,19,SIMULATED
+2026-11-02 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,42.0,48.0,46.67,Monday,19,SIMULATED
+2026-11-02 19:00:00,Engineering Library,First Floor,Digital Library,40.0,19.0,21.0,47.5,Monday,19,SIMULATED
+2026-11-02 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,42.0,108.0,28.0,Monday,20,SIMULATED
+2026-11-02 20:00:00,Central Library,First Floor,Digital Library,60.0,16.0,44.0,26.67,Monday,20,SIMULATED
+2026-11-02 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,26.0,54.0,32.5,Monday,20,SIMULATED
+2026-11-02 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,7.0,41.0,14.58,Monday,20,SIMULATED
+2026-11-02 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,29.0,61.0,32.22,Monday,20,SIMULATED
+2026-11-02 20:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Monday,20,SIMULATED
+2026-11-02 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,35.0,115.0,23.33,Monday,21,SIMULATED
+2026-11-02 21:00:00,Central Library,First Floor,Digital Library,60.0,13.0,47.0,21.67,Monday,21,SIMULATED
+2026-11-02 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,26.0,54.0,32.5,Monday,21,SIMULATED
+2026-11-02 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,12.0,36.0,25.0,Monday,21,SIMULATED
+2026-11-02 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,20.0,70.0,22.22,Monday,21,SIMULATED
+2026-11-02 21:00:00,Engineering Library,First Floor,Digital Library,40.0,11.0,29.0,27.5,Monday,21,SIMULATED
+2026-11-03 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,34.0,116.0,22.67,Tuesday,8,SIMULATED
+2026-11-03 08:00:00,Central Library,First Floor,Digital Library,60.0,8.0,52.0,13.33,Tuesday,8,SIMULATED
+2026-11-03 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,16.0,64.0,20.0,Tuesday,8,SIMULATED
+2026-11-03 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,3.0,45.0,6.25,Tuesday,8,SIMULATED
+2026-11-03 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,13.0,77.0,14.44,Tuesday,8,SIMULATED
+2026-11-03 08:00:00,Engineering Library,First Floor,Digital Library,40.0,6.0,34.0,15.0,Tuesday,8,SIMULATED
+2026-11-03 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,64.0,86.0,42.67,Tuesday,9,SIMULATED
+2026-11-03 09:00:00,Central Library,First Floor,Digital Library,60.0,26.0,34.0,43.33,Tuesday,9,SIMULATED
+2026-11-03 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,25.0,55.0,31.25,Tuesday,9,SIMULATED
+2026-11-03 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,14.0,34.0,29.17,Tuesday,9,SIMULATED
+2026-11-03 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,26.0,64.0,28.89,Tuesday,9,SIMULATED
+2026-11-03 09:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Tuesday,9,SIMULATED
+2026-11-03 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,81.0,69.0,54.0,Tuesday,10,SIMULATED
+2026-11-03 10:00:00,Central Library,First Floor,Digital Library,60.0,21.0,39.0,35.0,Tuesday,10,SIMULATED
+2026-11-03 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,51.0,29.0,63.75,Tuesday,10,SIMULATED
+2026-11-03 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,17.0,31.0,35.42,Tuesday,10,SIMULATED
+2026-11-03 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,43.0,47.0,47.78,Tuesday,10,SIMULATED
+2026-11-03 10:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Tuesday,10,SIMULATED
+2026-11-03 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,93.0,57.0,62.0,Tuesday,11,SIMULATED
+2026-11-03 11:00:00,Central Library,First Floor,Digital Library,60.0,35.0,25.0,58.33,Tuesday,11,SIMULATED
+2026-11-03 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,55.0,25.0,68.75,Tuesday,11,SIMULATED
+2026-11-03 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Tuesday,11,SIMULATED
+2026-11-03 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,57.0,33.0,63.33,Tuesday,11,SIMULATED
+2026-11-03 11:00:00,Engineering Library,First Floor,Digital Library,40.0,24.0,16.0,60.0,Tuesday,11,SIMULATED
+2026-11-03 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,90.0,60.0,60.0,Tuesday,12,SIMULATED
+2026-11-03 12:00:00,Central Library,First Floor,Digital Library,60.0,26.0,34.0,43.33,Tuesday,12,SIMULATED
+2026-11-03 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,57.0,23.0,71.25,Tuesday,12,SIMULATED
+2026-11-03 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,20.0,28.0,41.67,Tuesday,12,SIMULATED
+2026-11-03 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,57.0,33.0,63.33,Tuesday,12,SIMULATED
+2026-11-03 12:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Tuesday,12,SIMULATED
+2026-11-03 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,104.0,46.0,69.33,Tuesday,13,SIMULATED
+2026-11-03 13:00:00,Central Library,First Floor,Digital Library,60.0,37.0,23.0,61.67,Tuesday,13,SIMULATED
+2026-11-03 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,68.0,12.0,85.0,Tuesday,13,SIMULATED
+2026-11-03 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,30.0,18.0,62.5,Tuesday,13,SIMULATED
+2026-11-03 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,58.0,32.0,64.44,Tuesday,13,SIMULATED
+2026-11-03 13:00:00,Engineering Library,First Floor,Digital Library,40.0,23.0,17.0,57.5,Tuesday,13,SIMULATED
+2026-11-03 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,133.0,17.0,88.67,Tuesday,14,SIMULATED
+2026-11-03 14:00:00,Central Library,First Floor,Digital Library,60.0,39.0,21.0,65.0,Tuesday,14,SIMULATED
+2026-11-03 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,70.0,10.0,87.5,Tuesday,14,SIMULATED
+2026-11-03 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Tuesday,14,SIMULATED
+2026-11-03 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,70.0,20.0,77.78,Tuesday,14,SIMULATED
+2026-11-03 14:00:00,Engineering Library,First Floor,Digital Library,40.0,24.0,16.0,60.0,Tuesday,14,SIMULATED
+2026-11-03 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,118.0,32.0,78.67,Tuesday,15,SIMULATED
+2026-11-03 15:00:00,Central Library,First Floor,Digital Library,60.0,37.0,23.0,61.67,Tuesday,15,SIMULATED
+2026-11-03 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,69.0,11.0,86.25,Tuesday,15,SIMULATED
+2026-11-03 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,28.0,20.0,58.33,Tuesday,15,SIMULATED
+2026-11-03 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,71.0,19.0,78.89,Tuesday,15,SIMULATED
+2026-11-03 15:00:00,Engineering Library,First Floor,Digital Library,40.0,33.0,7.0,82.5,Tuesday,15,SIMULATED
+2026-11-03 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,136.0,14.0,90.67,Tuesday,16,SIMULATED
+2026-11-03 16:00:00,Central Library,First Floor,Digital Library,60.0,39.0,21.0,65.0,Tuesday,16,SIMULATED
+2026-11-03 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,72.0,8.0,90.0,Tuesday,16,SIMULATED
+2026-11-03 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Tuesday,16,SIMULATED
+2026-11-03 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,68.0,22.0,75.56,Tuesday,16,SIMULATED
+2026-11-03 16:00:00,Engineering Library,First Floor,Digital Library,40.0,27.0,13.0,67.5,Tuesday,16,SIMULATED
+2026-11-03 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,114.0,36.0,76.0,Tuesday,17,SIMULATED
+2026-11-03 17:00:00,Central Library,First Floor,Digital Library,60.0,35.0,25.0,58.33,Tuesday,17,SIMULATED
+2026-11-03 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,66.0,14.0,82.5,Tuesday,17,SIMULATED
+2026-11-03 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,21.0,27.0,43.75,Tuesday,17,SIMULATED
+2026-11-03 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,60.0,30.0,66.67,Tuesday,17,SIMULATED
+2026-11-03 17:00:00,Engineering Library,First Floor,Digital Library,40.0,29.0,11.0,72.5,Tuesday,17,SIMULATED
+2026-11-03 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,92.0,58.0,61.33,Tuesday,18,SIMULATED
+2026-11-03 18:00:00,Central Library,First Floor,Digital Library,60.0,36.0,24.0,60.0,Tuesday,18,SIMULATED
+2026-11-03 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,51.0,29.0,63.75,Tuesday,18,SIMULATED
+2026-11-03 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Tuesday,18,SIMULATED
+2026-11-03 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,49.0,41.0,54.44,Tuesday,18,SIMULATED
+2026-11-03 18:00:00,Engineering Library,First Floor,Digital Library,40.0,19.0,21.0,47.5,Tuesday,18,SIMULATED
+2026-11-03 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,71.0,79.0,47.33,Tuesday,19,SIMULATED
+2026-11-03 19:00:00,Central Library,First Floor,Digital Library,60.0,28.0,32.0,46.67,Tuesday,19,SIMULATED
+2026-11-03 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,40.0,40.0,50.0,Tuesday,19,SIMULATED
+2026-11-03 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,19.0,29.0,39.58,Tuesday,19,SIMULATED
+2026-11-03 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,49.0,41.0,54.44,Tuesday,19,SIMULATED
+2026-11-03 19:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Tuesday,19,SIMULATED
+2026-11-03 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,57.0,93.0,38.0,Tuesday,20,SIMULATED
+2026-11-03 20:00:00,Central Library,First Floor,Digital Library,60.0,22.0,38.0,36.67,Tuesday,20,SIMULATED
+2026-11-03 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,32.0,48.0,40.0,Tuesday,20,SIMULATED
+2026-11-03 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Tuesday,20,SIMULATED
+2026-11-03 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,23.0,67.0,25.56,Tuesday,20,SIMULATED
+2026-11-03 20:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Tuesday,20,SIMULATED
+2026-11-03 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,20.0,130.0,13.33,Tuesday,21,SIMULATED
+2026-11-03 21:00:00,Central Library,First Floor,Digital Library,60.0,7.0,53.0,11.67,Tuesday,21,SIMULATED
+2026-11-03 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,28.0,52.0,35.0,Tuesday,21,SIMULATED
+2026-11-03 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,11.0,37.0,22.92,Tuesday,21,SIMULATED
+2026-11-03 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,17.0,73.0,18.89,Tuesday,21,SIMULATED
+2026-11-03 21:00:00,Engineering Library,First Floor,Digital Library,40.0,4.0,36.0,10.0,Tuesday,21,SIMULATED
+2026-11-04 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,6.0,144.0,4.0,Wednesday,8,SIMULATED
+2026-11-04 08:00:00,Central Library,First Floor,Digital Library,60.0,9.0,51.0,15.0,Wednesday,8,SIMULATED
+2026-11-04 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,30.0,50.0,37.5,Wednesday,8,SIMULATED
+2026-11-04 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Wednesday,8,SIMULATED
+2026-11-04 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,15.0,75.0,16.67,Wednesday,8,SIMULATED
+2026-11-04 08:00:00,Engineering Library,First Floor,Digital Library,40.0,8.0,32.0,20.0,Wednesday,8,SIMULATED
+2026-11-04 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,43.0,107.0,28.67,Wednesday,9,SIMULATED
+2026-11-04 09:00:00,Central Library,First Floor,Digital Library,60.0,18.0,42.0,30.0,Wednesday,9,SIMULATED
+2026-11-04 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,32.0,48.0,40.0,Wednesday,9,SIMULATED
+2026-11-04 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,13.0,35.0,27.08,Wednesday,9,SIMULATED
+2026-11-04 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,36.0,54.0,40.0,Wednesday,9,SIMULATED
+2026-11-04 09:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Wednesday,9,SIMULATED
+2026-11-04 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,89.0,61.0,59.33,Wednesday,10,SIMULATED
+2026-11-04 10:00:00,Central Library,First Floor,Digital Library,60.0,26.0,34.0,43.33,Wednesday,10,SIMULATED
+2026-11-04 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,51.0,29.0,63.75,Wednesday,10,SIMULATED
+2026-11-04 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Wednesday,10,SIMULATED
+2026-11-04 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,40.0,50.0,44.44,Wednesday,10,SIMULATED
+2026-11-04 10:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Wednesday,10,SIMULATED
+2026-11-04 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,111.0,39.0,74.0,Wednesday,11,SIMULATED
+2026-11-04 11:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Wednesday,11,SIMULATED
+2026-11-04 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,62.0,18.0,77.5,Wednesday,11,SIMULATED
+2026-11-04 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,21.0,27.0,43.75,Wednesday,11,SIMULATED
+2026-11-04 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,63.0,27.0,70.0,Wednesday,11,SIMULATED
+2026-11-04 11:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Wednesday,11,SIMULATED
+2026-11-04 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,95.0,55.0,63.33,Wednesday,12,SIMULATED
+2026-11-04 12:00:00,Central Library,First Floor,Digital Library,60.0,37.0,23.0,61.67,Wednesday,12,SIMULATED
+2026-11-04 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,50.0,30.0,62.5,Wednesday,12,SIMULATED
+2026-11-04 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,18.0,30.0,37.5,Wednesday,12,SIMULATED
+2026-11-04 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,49.0,41.0,54.44,Wednesday,12,SIMULATED
+2026-11-04 12:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Wednesday,12,SIMULATED
+2026-11-04 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,91.0,59.0,60.67,Wednesday,13,SIMULATED
+2026-11-04 13:00:00,Central Library,First Floor,Digital Library,60.0,38.0,22.0,63.33,Wednesday,13,SIMULATED
+2026-11-04 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,56.0,24.0,70.0,Wednesday,13,SIMULATED
+2026-11-04 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Wednesday,13,SIMULATED
+2026-11-04 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,45.0,45.0,50.0,Wednesday,13,SIMULATED
+2026-11-04 13:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Wednesday,13,SIMULATED
+2026-11-04 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,108.0,42.0,72.0,Wednesday,14,SIMULATED
+2026-11-04 14:00:00,Central Library,First Floor,Digital Library,60.0,39.0,21.0,65.0,Wednesday,14,SIMULATED
+2026-11-04 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,70.0,10.0,87.5,Wednesday,14,SIMULATED
+2026-11-04 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Wednesday,14,SIMULATED
+2026-11-04 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,67.0,23.0,74.44,Wednesday,14,SIMULATED
+2026-11-04 14:00:00,Engineering Library,First Floor,Digital Library,40.0,26.0,14.0,65.0,Wednesday,14,SIMULATED
+2026-11-04 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,134.0,16.0,89.33,Wednesday,15,SIMULATED
+2026-11-04 15:00:00,Central Library,First Floor,Digital Library,60.0,41.0,19.0,68.33,Wednesday,15,SIMULATED
+2026-11-04 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,77.0,3.0,96.25,Wednesday,15,SIMULATED
+2026-11-04 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,31.0,17.0,64.58,Wednesday,15,SIMULATED
+2026-11-04 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,75.0,15.0,83.33,Wednesday,15,SIMULATED
+2026-11-04 15:00:00,Engineering Library,First Floor,Digital Library,40.0,29.0,11.0,72.5,Wednesday,15,SIMULATED
+2026-11-04 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,129.0,21.0,86.0,Wednesday,16,SIMULATED
+2026-11-04 16:00:00,Central Library,First Floor,Digital Library,60.0,50.0,10.0,83.33,Wednesday,16,SIMULATED
+2026-11-04 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,70.0,10.0,87.5,Wednesday,16,SIMULATED
+2026-11-04 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Wednesday,16,SIMULATED
+2026-11-04 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,65.0,25.0,72.22,Wednesday,16,SIMULATED
+2026-11-04 16:00:00,Engineering Library,First Floor,Digital Library,40.0,24.0,16.0,60.0,Wednesday,16,SIMULATED
+2026-11-04 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,97.0,53.0,64.67,Wednesday,17,SIMULATED
+2026-11-04 17:00:00,Central Library,First Floor,Digital Library,60.0,34.0,26.0,56.67,Wednesday,17,SIMULATED
+2026-11-04 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,60.0,20.0,75.0,Wednesday,17,SIMULATED
+2026-11-04 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,25.0,23.0,52.08,Wednesday,17,SIMULATED
+2026-11-04 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,60.0,30.0,66.67,Wednesday,17,SIMULATED
+2026-11-04 17:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Wednesday,17,SIMULATED
+2026-11-04 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,98.0,52.0,65.33,Wednesday,18,SIMULATED
+2026-11-04 18:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Wednesday,18,SIMULATED
+2026-11-04 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,50.0,30.0,62.5,Wednesday,18,SIMULATED
+2026-11-04 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,18.0,30.0,37.5,Wednesday,18,SIMULATED
+2026-11-04 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,53.0,37.0,58.89,Wednesday,18,SIMULATED
+2026-11-04 18:00:00,Engineering Library,First Floor,Digital Library,40.0,20.0,20.0,50.0,Wednesday,18,SIMULATED
+2026-11-04 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,65.0,85.0,43.33,Wednesday,19,SIMULATED
+2026-11-04 19:00:00,Central Library,First Floor,Digital Library,60.0,26.0,34.0,43.33,Wednesday,19,SIMULATED
+2026-11-04 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,45.0,35.0,56.25,Wednesday,19,SIMULATED
+2026-11-04 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Wednesday,19,SIMULATED
+2026-11-04 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,44.0,46.0,48.89,Wednesday,19,SIMULATED
+2026-11-04 19:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Wednesday,19,SIMULATED
+2026-11-04 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,72.0,78.0,48.0,Wednesday,20,SIMULATED
+2026-11-04 20:00:00,Central Library,First Floor,Digital Library,60.0,25.0,35.0,41.67,Wednesday,20,SIMULATED
+2026-11-04 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,32.0,48.0,40.0,Wednesday,20,SIMULATED
+2026-11-04 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,14.0,34.0,29.17,Wednesday,20,SIMULATED
+2026-11-04 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,20.0,70.0,22.22,Wednesday,20,SIMULATED
+2026-11-04 20:00:00,Engineering Library,First Floor,Digital Library,40.0,10.0,30.0,25.0,Wednesday,20,SIMULATED
+2026-11-04 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,35.0,115.0,23.33,Wednesday,21,SIMULATED
+2026-11-04 21:00:00,Central Library,First Floor,Digital Library,60.0,9.0,51.0,15.0,Wednesday,21,SIMULATED
+2026-11-04 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,24.0,56.0,30.0,Wednesday,21,SIMULATED
+2026-11-04 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,14.0,34.0,29.17,Wednesday,21,SIMULATED
+2026-11-04 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,14.0,76.0,15.56,Wednesday,21,SIMULATED
+2026-11-04 21:00:00,Engineering Library,First Floor,Digital Library,40.0,6.0,34.0,15.0,Wednesday,21,SIMULATED
+2026-11-05 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,38.0,112.0,25.33,Thursday,8,SIMULATED
+2026-11-05 08:00:00,Central Library,First Floor,Digital Library,60.0,18.0,42.0,30.0,Thursday,8,SIMULATED
+2026-11-05 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,14.0,66.0,17.5,Thursday,8,SIMULATED
+2026-11-05 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Thursday,8,SIMULATED
+2026-11-05 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,30.0,60.0,33.33,Thursday,8,SIMULATED
+2026-11-05 08:00:00,Engineering Library,First Floor,Digital Library,40.0,4.0,36.0,10.0,Thursday,8,SIMULATED
+2026-11-05 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,51.0,99.0,34.0,Thursday,9,SIMULATED
+2026-11-05 09:00:00,Central Library,First Floor,Digital Library,60.0,20.0,40.0,33.33,Thursday,9,SIMULATED
+2026-11-05 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,33.0,47.0,41.25,Thursday,9,SIMULATED
+2026-11-05 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Thursday,9,SIMULATED
+2026-11-05 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,36.0,54.0,40.0,Thursday,9,SIMULATED
+2026-11-05 09:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Thursday,9,SIMULATED
+2026-11-05 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,95.0,55.0,63.33,Thursday,10,SIMULATED
+2026-11-05 10:00:00,Central Library,First Floor,Digital Library,60.0,29.0,31.0,48.33,Thursday,10,SIMULATED
+2026-11-05 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,57.0,23.0,71.25,Thursday,10,SIMULATED
+2026-11-05 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,19.0,29.0,39.58,Thursday,10,SIMULATED
+2026-11-05 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,47.0,43.0,52.22,Thursday,10,SIMULATED
+2026-11-05 10:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Thursday,10,SIMULATED
+2026-11-05 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,116.0,34.0,77.33,Thursday,11,SIMULATED
+2026-11-05 11:00:00,Central Library,First Floor,Digital Library,60.0,39.0,21.0,65.0,Thursday,11,SIMULATED
+2026-11-05 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,53.0,27.0,66.25,Thursday,11,SIMULATED
+2026-11-05 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,26.0,22.0,54.17,Thursday,11,SIMULATED
+2026-11-05 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,55.0,35.0,61.11,Thursday,11,SIMULATED
+2026-11-05 11:00:00,Engineering Library,First Floor,Digital Library,40.0,24.0,16.0,60.0,Thursday,11,SIMULATED
+2026-11-05 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,89.0,61.0,59.33,Thursday,12,SIMULATED
+2026-11-05 12:00:00,Central Library,First Floor,Digital Library,60.0,36.0,24.0,60.0,Thursday,12,SIMULATED
+2026-11-05 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,53.0,27.0,66.25,Thursday,12,SIMULATED
+2026-11-05 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,19.0,29.0,39.58,Thursday,12,SIMULATED
+2026-11-05 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,60.0,30.0,66.67,Thursday,12,SIMULATED
+2026-11-05 12:00:00,Engineering Library,First Floor,Digital Library,40.0,22.0,18.0,55.0,Thursday,12,SIMULATED
+2026-11-05 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,110.0,40.0,73.33,Thursday,13,SIMULATED
+2026-11-05 13:00:00,Central Library,First Floor,Digital Library,60.0,44.0,16.0,73.33,Thursday,13,SIMULATED
+2026-11-05 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,63.0,17.0,78.75,Thursday,13,SIMULATED
+2026-11-05 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,26.0,22.0,54.17,Thursday,13,SIMULATED
+2026-11-05 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,65.0,25.0,72.22,Thursday,13,SIMULATED
+2026-11-05 13:00:00,Engineering Library,First Floor,Digital Library,40.0,23.0,17.0,57.5,Thursday,13,SIMULATED
+2026-11-05 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,140.0,10.0,93.33,Thursday,14,SIMULATED
+2026-11-05 14:00:00,Central Library,First Floor,Digital Library,60.0,44.0,16.0,73.33,Thursday,14,SIMULATED
+2026-11-05 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,74.0,6.0,92.5,Thursday,14,SIMULATED
+2026-11-05 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,34.0,14.0,70.83,Thursday,14,SIMULATED
+2026-11-05 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,69.0,21.0,76.67,Thursday,14,SIMULATED
+2026-11-05 14:00:00,Engineering Library,First Floor,Digital Library,40.0,23.0,17.0,57.5,Thursday,14,SIMULATED
+2026-11-05 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,150.0,0.0,100.0,Thursday,15,SIMULATED
+2026-11-05 15:00:00,Central Library,First Floor,Digital Library,60.0,59.0,1.0,98.33,Thursday,15,SIMULATED
+2026-11-05 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,79.0,1.0,98.75,Thursday,15,SIMULATED
+2026-11-05 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Thursday,15,SIMULATED
+2026-11-05 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,78.0,12.0,86.67,Thursday,15,SIMULATED
+2026-11-05 15:00:00,Engineering Library,First Floor,Digital Library,40.0,30.0,10.0,75.0,Thursday,15,SIMULATED
+2026-11-05 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,137.0,13.0,91.33,Thursday,16,SIMULATED
+2026-11-05 16:00:00,Central Library,First Floor,Digital Library,60.0,43.0,17.0,71.67,Thursday,16,SIMULATED
+2026-11-05 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,80.0,0.0,100.0,Thursday,16,SIMULATED
+2026-11-05 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,33.0,15.0,68.75,Thursday,16,SIMULATED
+2026-11-05 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,68.0,22.0,75.56,Thursday,16,SIMULATED
+2026-11-05 16:00:00,Engineering Library,First Floor,Digital Library,40.0,31.0,9.0,77.5,Thursday,16,SIMULATED
+2026-11-05 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,137.0,13.0,91.33,Thursday,17,SIMULATED
+2026-11-05 17:00:00,Central Library,First Floor,Digital Library,60.0,41.0,19.0,68.33,Thursday,17,SIMULATED
+2026-11-05 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,65.0,15.0,81.25,Thursday,17,SIMULATED
+2026-11-05 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,26.0,22.0,54.17,Thursday,17,SIMULATED
+2026-11-05 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,69.0,21.0,76.67,Thursday,17,SIMULATED
+2026-11-05 17:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Thursday,17,SIMULATED
+2026-11-05 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,100.0,50.0,66.67,Thursday,18,SIMULATED
+2026-11-05 18:00:00,Central Library,First Floor,Digital Library,60.0,32.0,28.0,53.33,Thursday,18,SIMULATED
+2026-11-05 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,64.0,16.0,80.0,Thursday,18,SIMULATED
+2026-11-05 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Thursday,18,SIMULATED
+2026-11-05 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,64.0,26.0,71.11,Thursday,18,SIMULATED
+2026-11-05 18:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Thursday,18,SIMULATED
+2026-11-05 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,91.0,59.0,60.67,Thursday,19,SIMULATED
+2026-11-05 19:00:00,Central Library,First Floor,Digital Library,60.0,30.0,30.0,50.0,Thursday,19,SIMULATED
+2026-11-05 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,44.0,36.0,55.0,Thursday,19,SIMULATED
+2026-11-05 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,20.0,28.0,41.67,Thursday,19,SIMULATED
+2026-11-05 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,54.0,36.0,60.0,Thursday,19,SIMULATED
+2026-11-05 19:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Thursday,19,SIMULATED
+2026-11-05 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,51.0,99.0,34.0,Thursday,20,SIMULATED
+2026-11-05 20:00:00,Central Library,First Floor,Digital Library,60.0,22.0,38.0,36.67,Thursday,20,SIMULATED
+2026-11-05 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,33.0,47.0,41.25,Thursday,20,SIMULATED
+2026-11-05 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,14.0,34.0,29.17,Thursday,20,SIMULATED
+2026-11-05 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,36.0,54.0,40.0,Thursday,20,SIMULATED
+2026-11-05 20:00:00,Engineering Library,First Floor,Digital Library,40.0,10.0,30.0,25.0,Thursday,20,SIMULATED
+2026-11-05 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,27.0,123.0,18.0,Thursday,21,SIMULATED
+2026-11-05 21:00:00,Central Library,First Floor,Digital Library,60.0,16.0,44.0,26.67,Thursday,21,SIMULATED
+2026-11-05 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,21.0,59.0,26.25,Thursday,21,SIMULATED
+2026-11-05 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,2.0,46.0,4.17,Thursday,21,SIMULATED
+2026-11-05 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,27.0,63.0,30.0,Thursday,21,SIMULATED
+2026-11-05 21:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Thursday,21,SIMULATED
+2026-11-06 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,30.0,120.0,20.0,Friday,8,SIMULATED
+2026-11-06 08:00:00,Central Library,First Floor,Digital Library,60.0,8.0,52.0,13.33,Friday,8,SIMULATED
+2026-11-06 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,24.0,56.0,30.0,Friday,8,SIMULATED
+2026-11-06 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Friday,8,SIMULATED
+2026-11-06 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,33.0,57.0,36.67,Friday,8,SIMULATED
+2026-11-06 08:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Friday,8,SIMULATED
+2026-11-06 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,66.0,84.0,44.0,Friday,9,SIMULATED
+2026-11-06 09:00:00,Central Library,First Floor,Digital Library,60.0,21.0,39.0,35.0,Friday,9,SIMULATED
+2026-11-06 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,39.0,41.0,48.75,Friday,9,SIMULATED
+2026-11-06 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Friday,9,SIMULATED
+2026-11-06 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,41.0,49.0,45.56,Friday,9,SIMULATED
+2026-11-06 09:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Friday,9,SIMULATED
+2026-11-06 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,87.0,63.0,58.0,Friday,10,SIMULATED
+2026-11-06 10:00:00,Central Library,First Floor,Digital Library,60.0,29.0,31.0,48.33,Friday,10,SIMULATED
+2026-11-06 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,55.0,25.0,68.75,Friday,10,SIMULATED
+2026-11-06 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,25.0,23.0,52.08,Friday,10,SIMULATED
+2026-11-06 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,48.0,42.0,53.33,Friday,10,SIMULATED
+2026-11-06 10:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Friday,10,SIMULATED
+2026-11-06 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,112.0,38.0,74.67,Friday,11,SIMULATED
+2026-11-06 11:00:00,Central Library,First Floor,Digital Library,60.0,36.0,24.0,60.0,Friday,11,SIMULATED
+2026-11-06 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,66.0,14.0,82.5,Friday,11,SIMULATED
+2026-11-06 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,18.0,30.0,37.5,Friday,11,SIMULATED
+2026-11-06 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,56.0,34.0,62.22,Friday,11,SIMULATED
+2026-11-06 11:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Friday,11,SIMULATED
+2026-11-06 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,81.0,69.0,54.0,Friday,12,SIMULATED
+2026-11-06 12:00:00,Central Library,First Floor,Digital Library,60.0,31.0,29.0,51.67,Friday,12,SIMULATED
+2026-11-06 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,53.0,27.0,66.25,Friday,12,SIMULATED
+2026-11-06 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Friday,12,SIMULATED
+2026-11-06 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,62.0,28.0,68.89,Friday,12,SIMULATED
+2026-11-06 12:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Friday,12,SIMULATED
+2026-11-06 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,106.0,44.0,70.67,Friday,13,SIMULATED
+2026-11-06 13:00:00,Central Library,First Floor,Digital Library,60.0,39.0,21.0,65.0,Friday,13,SIMULATED
+2026-11-06 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,70.0,10.0,87.5,Friday,13,SIMULATED
+2026-11-06 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Friday,13,SIMULATED
+2026-11-06 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,59.0,31.0,65.56,Friday,13,SIMULATED
+2026-11-06 13:00:00,Engineering Library,First Floor,Digital Library,40.0,26.0,14.0,65.0,Friday,13,SIMULATED
+2026-11-06 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,133.0,17.0,88.67,Friday,14,SIMULATED
+2026-11-06 14:00:00,Central Library,First Floor,Digital Library,60.0,48.0,12.0,80.0,Friday,14,SIMULATED
+2026-11-06 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,76.0,4.0,95.0,Friday,14,SIMULATED
+2026-11-06 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,32.0,16.0,66.67,Friday,14,SIMULATED
+2026-11-06 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,69.0,21.0,76.67,Friday,14,SIMULATED
+2026-11-06 14:00:00,Engineering Library,First Floor,Digital Library,40.0,29.0,11.0,72.5,Friday,14,SIMULATED
+2026-11-06 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,143.0,7.0,95.33,Friday,15,SIMULATED
+2026-11-06 15:00:00,Central Library,First Floor,Digital Library,60.0,45.0,15.0,75.0,Friday,15,SIMULATED
+2026-11-06 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,74.0,6.0,92.5,Friday,15,SIMULATED
+2026-11-06 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,34.0,14.0,70.83,Friday,15,SIMULATED
+2026-11-06 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,78.0,12.0,86.67,Friday,15,SIMULATED
+2026-11-06 15:00:00,Engineering Library,First Floor,Digital Library,40.0,29.0,11.0,72.5,Friday,15,SIMULATED
+2026-11-06 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,138.0,12.0,92.0,Friday,16,SIMULATED
+2026-11-06 16:00:00,Central Library,First Floor,Digital Library,60.0,51.0,9.0,85.0,Friday,16,SIMULATED
+2026-11-06 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,67.0,13.0,83.75,Friday,16,SIMULATED
+2026-11-06 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Friday,16,SIMULATED
+2026-11-06 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,72.0,18.0,80.0,Friday,16,SIMULATED
+2026-11-06 16:00:00,Engineering Library,First Floor,Digital Library,40.0,33.0,7.0,82.5,Friday,16,SIMULATED
+2026-11-06 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,121.0,29.0,80.67,Friday,17,SIMULATED
+2026-11-06 17:00:00,Central Library,First Floor,Digital Library,60.0,43.0,17.0,71.67,Friday,17,SIMULATED
+2026-11-06 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,61.0,19.0,76.25,Friday,17,SIMULATED
+2026-11-06 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Friday,17,SIMULATED
+2026-11-06 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,68.0,22.0,75.56,Friday,17,SIMULATED
+2026-11-06 17:00:00,Engineering Library,First Floor,Digital Library,40.0,25.0,15.0,62.5,Friday,17,SIMULATED
+2026-11-06 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,104.0,46.0,69.33,Friday,18,SIMULATED
+2026-11-06 18:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Friday,18,SIMULATED
+2026-11-06 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,57.0,23.0,71.25,Friday,18,SIMULATED
+2026-11-06 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Friday,18,SIMULATED
+2026-11-06 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,59.0,31.0,65.56,Friday,18,SIMULATED
+2026-11-06 18:00:00,Engineering Library,First Floor,Digital Library,40.0,23.0,17.0,57.5,Friday,18,SIMULATED
+2026-11-06 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,71.0,79.0,47.33,Friday,19,SIMULATED
+2026-11-06 19:00:00,Central Library,First Floor,Digital Library,60.0,21.0,39.0,35.0,Friday,19,SIMULATED
+2026-11-06 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,53.0,27.0,66.25,Friday,19,SIMULATED
+2026-11-06 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Friday,19,SIMULATED
+2026-11-06 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,42.0,48.0,46.67,Friday,19,SIMULATED
+2026-11-06 19:00:00,Engineering Library,First Floor,Digital Library,40.0,14.0,26.0,35.0,Friday,19,SIMULATED
+2026-11-06 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,67.0,83.0,44.67,Friday,20,SIMULATED
+2026-11-06 20:00:00,Central Library,First Floor,Digital Library,60.0,26.0,34.0,43.33,Friday,20,SIMULATED
+2026-11-06 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,46.0,34.0,57.5,Friday,20,SIMULATED
+2026-11-06 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Friday,20,SIMULATED
+2026-11-06 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,34.0,56.0,37.78,Friday,20,SIMULATED
+2026-11-06 20:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Friday,20,SIMULATED
+2026-11-06 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,41.0,109.0,27.33,Friday,21,SIMULATED
+2026-11-06 21:00:00,Central Library,First Floor,Digital Library,60.0,13.0,47.0,21.67,Friday,21,SIMULATED
+2026-11-06 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,18.0,62.0,22.5,Friday,21,SIMULATED
+2026-11-06 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Friday,21,SIMULATED
+2026-11-06 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,32.0,58.0,35.56,Friday,21,SIMULATED
+2026-11-06 21:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Friday,21,SIMULATED
+2026-11-07 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,12.0,138.0,8.0,Saturday,8,SIMULATED
+2026-11-07 08:00:00,Central Library,First Floor,Digital Library,60.0,10.0,50.0,16.67,Saturday,8,SIMULATED
+2026-11-07 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,14.0,66.0,17.5,Saturday,8,SIMULATED
+2026-11-07 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,6.0,42.0,12.5,Saturday,8,SIMULATED
+2026-11-07 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,18.0,72.0,20.0,Saturday,8,SIMULATED
+2026-11-07 08:00:00,Engineering Library,First Floor,Digital Library,40.0,6.0,34.0,15.0,Saturday,8,SIMULATED
+2026-11-07 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,41.0,109.0,27.33,Saturday,9,SIMULATED
+2026-11-07 09:00:00,Central Library,First Floor,Digital Library,60.0,14.0,46.0,23.33,Saturday,9,SIMULATED
+2026-11-07 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,21.0,59.0,26.25,Saturday,9,SIMULATED
+2026-11-07 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,3.0,45.0,6.25,Saturday,9,SIMULATED
+2026-11-07 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,19.0,71.0,21.11,Saturday,9,SIMULATED
+2026-11-07 09:00:00,Engineering Library,First Floor,Digital Library,40.0,6.0,34.0,15.0,Saturday,9,SIMULATED
+2026-11-07 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,38.0,112.0,25.33,Saturday,10,SIMULATED
+2026-11-07 10:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Saturday,10,SIMULATED
+2026-11-07 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,36.0,44.0,45.0,Saturday,10,SIMULATED
+2026-11-07 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Saturday,10,SIMULATED
+2026-11-07 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,29.0,61.0,32.22,Saturday,10,SIMULATED
+2026-11-07 10:00:00,Engineering Library,First Floor,Digital Library,40.0,14.0,26.0,35.0,Saturday,10,SIMULATED
+2026-11-07 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,60.0,90.0,40.0,Saturday,11,SIMULATED
+2026-11-07 11:00:00,Central Library,First Floor,Digital Library,60.0,21.0,39.0,35.0,Saturday,11,SIMULATED
+2026-11-07 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,28.0,52.0,35.0,Saturday,11,SIMULATED
+2026-11-07 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Saturday,11,SIMULATED
+2026-11-07 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,33.0,57.0,36.67,Saturday,11,SIMULATED
+2026-11-07 11:00:00,Engineering Library,First Floor,Digital Library,40.0,10.0,30.0,25.0,Saturday,11,SIMULATED
+2026-11-07 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,56.0,94.0,37.33,Saturday,12,SIMULATED
+2026-11-07 12:00:00,Central Library,First Floor,Digital Library,60.0,19.0,41.0,31.67,Saturday,12,SIMULATED
+2026-11-07 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,40.0,40.0,50.0,Saturday,12,SIMULATED
+2026-11-07 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Saturday,12,SIMULATED
+2026-11-07 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,31.0,59.0,34.44,Saturday,12,SIMULATED
+2026-11-07 12:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Saturday,12,SIMULATED
+2026-11-07 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,64.0,86.0,42.67,Saturday,13,SIMULATED
+2026-11-07 13:00:00,Central Library,First Floor,Digital Library,60.0,21.0,39.0,35.0,Saturday,13,SIMULATED
+2026-11-07 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,30.0,50.0,37.5,Saturday,13,SIMULATED
+2026-11-07 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,14.0,34.0,29.17,Saturday,13,SIMULATED
+2026-11-07 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,31.0,59.0,34.44,Saturday,13,SIMULATED
+2026-11-07 13:00:00,Engineering Library,First Floor,Digital Library,40.0,11.0,29.0,27.5,Saturday,13,SIMULATED
+2026-11-07 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,79.0,71.0,52.67,Saturday,14,SIMULATED
+2026-11-07 14:00:00,Central Library,First Floor,Digital Library,60.0,27.0,33.0,45.0,Saturday,14,SIMULATED
+2026-11-07 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,33.0,47.0,41.25,Saturday,14,SIMULATED
+2026-11-07 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Saturday,14,SIMULATED
+2026-11-07 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,46.0,44.0,51.11,Saturday,14,SIMULATED
+2026-11-07 14:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Saturday,14,SIMULATED
+2026-11-07 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,89.0,61.0,59.33,Saturday,15,SIMULATED
+2026-11-07 15:00:00,Central Library,First Floor,Digital Library,60.0,27.0,33.0,45.0,Saturday,15,SIMULATED
+2026-11-07 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,41.0,39.0,51.25,Saturday,15,SIMULATED
+2026-11-07 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Saturday,15,SIMULATED
+2026-11-07 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,46.0,44.0,51.11,Saturday,15,SIMULATED
+2026-11-07 15:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Saturday,15,SIMULATED
+2026-11-07 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,88.0,62.0,58.67,Saturday,16,SIMULATED
+2026-11-07 16:00:00,Central Library,First Floor,Digital Library,60.0,30.0,30.0,50.0,Saturday,16,SIMULATED
+2026-11-07 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,42.0,38.0,52.5,Saturday,16,SIMULATED
+2026-11-07 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,13.0,35.0,27.08,Saturday,16,SIMULATED
+2026-11-07 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,40.0,50.0,44.44,Saturday,16,SIMULATED
+2026-11-07 16:00:00,Engineering Library,First Floor,Digital Library,40.0,17.0,23.0,42.5,Saturday,16,SIMULATED
+2026-11-07 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,64.0,86.0,42.67,Saturday,17,SIMULATED
+2026-11-07 17:00:00,Central Library,First Floor,Digital Library,60.0,20.0,40.0,33.33,Saturday,17,SIMULATED
+2026-11-07 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,38.0,42.0,47.5,Saturday,17,SIMULATED
+2026-11-07 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,13.0,35.0,27.08,Saturday,17,SIMULATED
+2026-11-07 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,33.0,57.0,36.67,Saturday,17,SIMULATED
+2026-11-07 17:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Saturday,17,SIMULATED
+2026-11-07 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,51.0,99.0,34.0,Saturday,18,SIMULATED
+2026-11-07 18:00:00,Central Library,First Floor,Digital Library,60.0,19.0,41.0,31.67,Saturday,18,SIMULATED
+2026-11-07 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,32.0,48.0,40.0,Saturday,18,SIMULATED
+2026-11-07 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Saturday,18,SIMULATED
+2026-11-07 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,27.0,63.0,30.0,Saturday,18,SIMULATED
+2026-11-07 18:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Saturday,18,SIMULATED
+2026-11-07 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,37.0,113.0,24.67,Saturday,19,SIMULATED
+2026-11-07 19:00:00,Central Library,First Floor,Digital Library,60.0,8.0,52.0,13.33,Saturday,19,SIMULATED
+2026-11-07 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,17.0,63.0,21.25,Saturday,19,SIMULATED
+2026-11-07 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,11.0,37.0,22.92,Saturday,19,SIMULATED
+2026-11-07 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,26.0,64.0,28.89,Saturday,19,SIMULATED
+2026-11-07 19:00:00,Engineering Library,First Floor,Digital Library,40.0,10.0,30.0,25.0,Saturday,19,SIMULATED
+2026-11-07 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,47.0,103.0,31.33,Saturday,20,SIMULATED
+2026-11-07 20:00:00,Central Library,First Floor,Digital Library,60.0,3.0,57.0,5.0,Saturday,20,SIMULATED
+2026-11-07 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,22.0,58.0,27.5,Saturday,20,SIMULATED
+2026-11-07 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,13.0,35.0,27.08,Saturday,20,SIMULATED
+2026-11-07 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,14.0,76.0,15.56,Saturday,20,SIMULATED
+2026-11-07 20:00:00,Engineering Library,First Floor,Digital Library,40.0,7.0,33.0,17.5,Saturday,20,SIMULATED
+2026-11-07 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,16.0,134.0,10.67,Saturday,21,SIMULATED
+2026-11-07 21:00:00,Central Library,First Floor,Digital Library,60.0,4.0,56.0,6.67,Saturday,21,SIMULATED
+2026-11-07 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,11.0,69.0,13.75,Saturday,21,SIMULATED
+2026-11-07 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Saturday,21,SIMULATED
+2026-11-07 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,22.0,68.0,24.44,Saturday,21,SIMULATED
+2026-11-07 21:00:00,Engineering Library,First Floor,Digital Library,40.0,4.0,36.0,10.0,Saturday,21,SIMULATED
+2026-11-08 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,37.0,113.0,24.67,Sunday,8,SIMULATED
+2026-11-08 08:00:00,Central Library,First Floor,Digital Library,60.0,7.0,53.0,11.67,Sunday,8,SIMULATED
+2026-11-08 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,20.0,60.0,25.0,Sunday,8,SIMULATED
+2026-11-08 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,4.0,44.0,8.33,Sunday,8,SIMULATED
+2026-11-08 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,12.0,78.0,13.33,Sunday,8,SIMULATED
+2026-11-08 08:00:00,Engineering Library,First Floor,Digital Library,40.0,5.0,35.0,12.5,Sunday,8,SIMULATED
+2026-11-08 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,63.0,87.0,42.0,Sunday,9,SIMULATED
+2026-11-08 09:00:00,Central Library,First Floor,Digital Library,60.0,15.0,45.0,25.0,Sunday,9,SIMULATED
+2026-11-08 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,16.0,64.0,20.0,Sunday,9,SIMULATED
+2026-11-08 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,11.0,37.0,22.92,Sunday,9,SIMULATED
+2026-11-08 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,17.0,73.0,18.89,Sunday,9,SIMULATED
+2026-11-08 09:00:00,Engineering Library,First Floor,Digital Library,40.0,6.0,34.0,15.0,Sunday,9,SIMULATED
+2026-11-08 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,58.0,92.0,38.67,Sunday,10,SIMULATED
+2026-11-08 10:00:00,Central Library,First Floor,Digital Library,60.0,17.0,43.0,28.33,Sunday,10,SIMULATED
+2026-11-08 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,29.0,51.0,36.25,Sunday,10,SIMULATED
+2026-11-08 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,11.0,37.0,22.92,Sunday,10,SIMULATED
+2026-11-08 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,29.0,61.0,32.22,Sunday,10,SIMULATED
+2026-11-08 10:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Sunday,10,SIMULATED
+2026-11-08 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,42.0,108.0,28.0,Sunday,11,SIMULATED
+2026-11-08 11:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Sunday,11,SIMULATED
+2026-11-08 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,29.0,51.0,36.25,Sunday,11,SIMULATED
+2026-11-08 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Sunday,11,SIMULATED
+2026-11-08 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,33.0,57.0,36.67,Sunday,11,SIMULATED
+2026-11-08 11:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Sunday,11,SIMULATED
+2026-11-08 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,50.0,100.0,33.33,Sunday,12,SIMULATED
+2026-11-08 12:00:00,Central Library,First Floor,Digital Library,60.0,22.0,38.0,36.67,Sunday,12,SIMULATED
+2026-11-08 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,25.0,55.0,31.25,Sunday,12,SIMULATED
+2026-11-08 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,11.0,37.0,22.92,Sunday,12,SIMULATED
+2026-11-08 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,28.0,62.0,31.11,Sunday,12,SIMULATED
+2026-11-08 12:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Sunday,12,SIMULATED
+2026-11-08 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,66.0,84.0,44.0,Sunday,13,SIMULATED
+2026-11-08 13:00:00,Central Library,First Floor,Digital Library,60.0,18.0,42.0,30.0,Sunday,13,SIMULATED
+2026-11-08 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,39.0,41.0,48.75,Sunday,13,SIMULATED
+2026-11-08 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,14.0,34.0,29.17,Sunday,13,SIMULATED
+2026-11-08 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,25.0,65.0,27.78,Sunday,13,SIMULATED
+2026-11-08 13:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Sunday,13,SIMULATED
+2026-11-08 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,74.0,76.0,49.33,Sunday,14,SIMULATED
+2026-11-08 14:00:00,Central Library,First Floor,Digital Library,60.0,25.0,35.0,41.67,Sunday,14,SIMULATED
+2026-11-08 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,41.0,39.0,51.25,Sunday,14,SIMULATED
+2026-11-08 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,17.0,31.0,35.42,Sunday,14,SIMULATED
+2026-11-08 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,42.0,48.0,46.67,Sunday,14,SIMULATED
+2026-11-08 14:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Sunday,14,SIMULATED
+2026-11-08 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,70.0,80.0,46.67,Sunday,15,SIMULATED
+2026-11-08 15:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Sunday,15,SIMULATED
+2026-11-08 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,39.0,41.0,48.75,Sunday,15,SIMULATED
+2026-11-08 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,19.0,29.0,39.58,Sunday,15,SIMULATED
+2026-11-08 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,51.0,39.0,56.67,Sunday,15,SIMULATED
+2026-11-08 15:00:00,Engineering Library,First Floor,Digital Library,40.0,16.0,24.0,40.0,Sunday,15,SIMULATED
+2026-11-08 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,54.0,96.0,36.0,Sunday,16,SIMULATED
+2026-11-08 16:00:00,Central Library,First Floor,Digital Library,60.0,20.0,40.0,33.33,Sunday,16,SIMULATED
+2026-11-08 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,39.0,41.0,48.75,Sunday,16,SIMULATED
+2026-11-08 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Sunday,16,SIMULATED
+2026-11-08 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,40.0,50.0,44.44,Sunday,16,SIMULATED
+2026-11-08 16:00:00,Engineering Library,First Floor,Digital Library,40.0,16.0,24.0,40.0,Sunday,16,SIMULATED
+2026-11-08 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,63.0,87.0,42.0,Sunday,17,SIMULATED
+2026-11-08 17:00:00,Central Library,First Floor,Digital Library,60.0,26.0,34.0,43.33,Sunday,17,SIMULATED
+2026-11-08 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,33.0,47.0,41.25,Sunday,17,SIMULATED
+2026-11-08 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,12.0,36.0,25.0,Sunday,17,SIMULATED
+2026-11-08 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,39.0,51.0,43.33,Sunday,17,SIMULATED
+2026-11-08 17:00:00,Engineering Library,First Floor,Digital Library,40.0,10.0,30.0,25.0,Sunday,17,SIMULATED
+2026-11-08 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,58.0,92.0,38.67,Sunday,18,SIMULATED
+2026-11-08 18:00:00,Central Library,First Floor,Digital Library,60.0,19.0,41.0,31.67,Sunday,18,SIMULATED
+2026-11-08 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,30.0,50.0,37.5,Sunday,18,SIMULATED
+2026-11-08 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,17.0,31.0,35.42,Sunday,18,SIMULATED
+2026-11-08 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,27.0,63.0,30.0,Sunday,18,SIMULATED
+2026-11-08 18:00:00,Engineering Library,First Floor,Digital Library,40.0,17.0,23.0,42.5,Sunday,18,SIMULATED
+2026-11-08 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,45.0,105.0,30.0,Sunday,19,SIMULATED
+2026-11-08 19:00:00,Central Library,First Floor,Digital Library,60.0,11.0,49.0,18.33,Sunday,19,SIMULATED
+2026-11-08 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,27.0,53.0,33.75,Sunday,19,SIMULATED
+2026-11-08 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,7.0,41.0,14.58,Sunday,19,SIMULATED
+2026-11-08 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,22.0,68.0,24.44,Sunday,19,SIMULATED
+2026-11-08 19:00:00,Engineering Library,First Floor,Digital Library,40.0,11.0,29.0,27.5,Sunday,19,SIMULATED
+2026-11-08 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,41.0,109.0,27.33,Sunday,20,SIMULATED
+2026-11-08 20:00:00,Central Library,First Floor,Digital Library,60.0,10.0,50.0,16.67,Sunday,20,SIMULATED
+2026-11-08 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,25.0,55.0,31.25,Sunday,20,SIMULATED
+2026-11-08 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,11.0,37.0,22.92,Sunday,20,SIMULATED
+2026-11-08 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,28.0,62.0,31.11,Sunday,20,SIMULATED
+2026-11-08 20:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Sunday,20,SIMULATED
+2026-11-08 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,35.0,115.0,23.33,Sunday,21,SIMULATED
+2026-11-08 21:00:00,Central Library,First Floor,Digital Library,60.0,1.0,59.0,1.67,Sunday,21,SIMULATED
+2026-11-08 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,11.0,69.0,13.75,Sunday,21,SIMULATED
+2026-11-08 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,3.0,45.0,6.25,Sunday,21,SIMULATED
+2026-11-08 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,13.0,77.0,14.44,Sunday,21,SIMULATED
+2026-11-08 21:00:00,Engineering Library,First Floor,Digital Library,40.0,3.0,37.0,7.5,Sunday,21,SIMULATED
+2026-11-09 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,35.0,115.0,23.33,Monday,8,SIMULATED
+2026-11-09 08:00:00,Central Library,First Floor,Digital Library,60.0,19.0,41.0,31.67,Monday,8,SIMULATED
+2026-11-09 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,20.0,60.0,25.0,Monday,8,SIMULATED
+2026-11-09 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,9.0,39.0,18.75,Monday,8,SIMULATED
+2026-11-09 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,19.0,71.0,21.11,Monday,8,SIMULATED
+2026-11-09 08:00:00,Engineering Library,First Floor,Digital Library,40.0,8.0,32.0,20.0,Monday,8,SIMULATED
+2026-11-09 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,63.0,87.0,42.0,Monday,9,SIMULATED
+2026-11-09 09:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Monday,9,SIMULATED
+2026-11-09 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,41.0,39.0,51.25,Monday,9,SIMULATED
+2026-11-09 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,19.0,29.0,39.58,Monday,9,SIMULATED
+2026-11-09 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,36.0,54.0,40.0,Monday,9,SIMULATED
+2026-11-09 09:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Monday,9,SIMULATED
+2026-11-09 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,80.0,70.0,53.33,Monday,10,SIMULATED
+2026-11-09 10:00:00,Central Library,First Floor,Digital Library,60.0,31.0,29.0,51.67,Monday,10,SIMULATED
+2026-11-09 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,55.0,25.0,68.75,Monday,10,SIMULATED
+2026-11-09 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Monday,10,SIMULATED
+2026-11-09 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,51.0,39.0,56.67,Monday,10,SIMULATED
+2026-11-09 10:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Monday,10,SIMULATED
+2026-11-09 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,113.0,37.0,75.33,Monday,11,SIMULATED
+2026-11-09 11:00:00,Central Library,First Floor,Digital Library,60.0,41.0,19.0,68.33,Monday,11,SIMULATED
+2026-11-09 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,62.0,18.0,77.5,Monday,11,SIMULATED
+2026-11-09 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Monday,11,SIMULATED
+2026-11-09 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,62.0,28.0,68.89,Monday,11,SIMULATED
+2026-11-09 11:00:00,Engineering Library,First Floor,Digital Library,40.0,16.0,24.0,40.0,Monday,11,SIMULATED
+2026-11-09 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,106.0,44.0,70.67,Monday,12,SIMULATED
+2026-11-09 12:00:00,Central Library,First Floor,Digital Library,60.0,22.0,38.0,36.67,Monday,12,SIMULATED
+2026-11-09 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,49.0,31.0,61.25,Monday,12,SIMULATED
+2026-11-09 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,24.0,24.0,50.0,Monday,12,SIMULATED
+2026-11-09 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,59.0,31.0,65.56,Monday,12,SIMULATED
+2026-11-09 12:00:00,Engineering Library,First Floor,Digital Library,40.0,19.0,21.0,47.5,Monday,12,SIMULATED
+2026-11-09 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,109.0,41.0,72.67,Monday,13,SIMULATED
+2026-11-09 13:00:00,Central Library,First Floor,Digital Library,60.0,44.0,16.0,73.33,Monday,13,SIMULATED
+2026-11-09 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,62.0,18.0,77.5,Monday,13,SIMULATED
+2026-11-09 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,32.0,16.0,66.67,Monday,13,SIMULATED
+2026-11-09 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,64.0,26.0,71.11,Monday,13,SIMULATED
+2026-11-09 13:00:00,Engineering Library,First Floor,Digital Library,40.0,26.0,14.0,65.0,Monday,13,SIMULATED
+2026-11-09 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,150.0,0.0,100.0,Monday,14,SIMULATED
+2026-11-09 14:00:00,Central Library,First Floor,Digital Library,60.0,46.0,14.0,76.67,Monday,14,SIMULATED
+2026-11-09 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,71.0,9.0,88.75,Monday,14,SIMULATED
+2026-11-09 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,30.0,18.0,62.5,Monday,14,SIMULATED
+2026-11-09 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,74.0,16.0,82.22,Monday,14,SIMULATED
+2026-11-09 14:00:00,Engineering Library,First Floor,Digital Library,40.0,26.0,14.0,65.0,Monday,14,SIMULATED
+2026-11-09 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,143.0,7.0,95.33,Monday,15,SIMULATED
+2026-11-09 15:00:00,Central Library,First Floor,Digital Library,60.0,47.0,13.0,78.33,Monday,15,SIMULATED
+2026-11-09 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,80.0,0.0,100.0,Monday,15,SIMULATED
+2026-11-09 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,33.0,15.0,68.75,Monday,15,SIMULATED
+2026-11-09 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,79.0,11.0,87.78,Monday,15,SIMULATED
+2026-11-09 15:00:00,Engineering Library,First Floor,Digital Library,40.0,31.0,9.0,77.5,Monday,15,SIMULATED
+2026-11-09 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,141.0,9.0,94.0,Monday,16,SIMULATED
+2026-11-09 16:00:00,Central Library,First Floor,Digital Library,60.0,49.0,11.0,81.67,Monday,16,SIMULATED
+2026-11-09 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,73.0,7.0,91.25,Monday,16,SIMULATED
+2026-11-09 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,28.0,20.0,58.33,Monday,16,SIMULATED
+2026-11-09 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,82.0,8.0,91.11,Monday,16,SIMULATED
+2026-11-09 16:00:00,Engineering Library,First Floor,Digital Library,40.0,29.0,11.0,72.5,Monday,16,SIMULATED
+2026-11-09 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,106.0,44.0,70.67,Monday,17,SIMULATED
+2026-11-09 17:00:00,Central Library,First Floor,Digital Library,60.0,42.0,18.0,70.0,Monday,17,SIMULATED
+2026-11-09 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,69.0,11.0,86.25,Monday,17,SIMULATED
+2026-11-09 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Monday,17,SIMULATED
+2026-11-09 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,67.0,23.0,74.44,Monday,17,SIMULATED
+2026-11-09 17:00:00,Engineering Library,First Floor,Digital Library,40.0,27.0,13.0,67.5,Monday,17,SIMULATED
+2026-11-09 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,102.0,48.0,68.0,Monday,18,SIMULATED
+2026-11-09 18:00:00,Central Library,First Floor,Digital Library,60.0,36.0,24.0,60.0,Monday,18,SIMULATED
+2026-11-09 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,49.0,31.0,61.25,Monday,18,SIMULATED
+2026-11-09 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Monday,18,SIMULATED
+2026-11-09 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,53.0,37.0,58.89,Monday,18,SIMULATED
+2026-11-09 18:00:00,Engineering Library,First Floor,Digital Library,40.0,20.0,20.0,50.0,Monday,18,SIMULATED
+2026-11-09 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,94.0,56.0,62.67,Monday,19,SIMULATED
+2026-11-09 19:00:00,Central Library,First Floor,Digital Library,60.0,34.0,26.0,56.67,Monday,19,SIMULATED
+2026-11-09 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,57.0,23.0,71.25,Monday,19,SIMULATED
+2026-11-09 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Monday,19,SIMULATED
+2026-11-09 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,47.0,43.0,52.22,Monday,19,SIMULATED
+2026-11-09 19:00:00,Engineering Library,First Floor,Digital Library,40.0,19.0,21.0,47.5,Monday,19,SIMULATED
+2026-11-09 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,73.0,77.0,48.67,Monday,20,SIMULATED
+2026-11-09 20:00:00,Central Library,First Floor,Digital Library,60.0,23.0,37.0,38.33,Monday,20,SIMULATED
+2026-11-09 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,38.0,42.0,47.5,Monday,20,SIMULATED
+2026-11-09 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,17.0,31.0,35.42,Monday,20,SIMULATED
+2026-11-09 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,36.0,54.0,40.0,Monday,20,SIMULATED
+2026-11-09 20:00:00,Engineering Library,First Floor,Digital Library,40.0,12.0,28.0,30.0,Monday,20,SIMULATED
+2026-11-09 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,38.0,112.0,25.33,Monday,21,SIMULATED
+2026-11-09 21:00:00,Central Library,First Floor,Digital Library,60.0,16.0,44.0,26.67,Monday,21,SIMULATED
+2026-11-09 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,23.0,57.0,28.75,Monday,21,SIMULATED
+2026-11-09 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,10.0,38.0,20.83,Monday,21,SIMULATED
+2026-11-09 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,26.0,64.0,28.89,Monday,21,SIMULATED
+2026-11-09 21:00:00,Engineering Library,First Floor,Digital Library,40.0,8.0,32.0,20.0,Monday,21,SIMULATED
+2026-11-10 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,43.0,107.0,28.67,Tuesday,8,SIMULATED
+2026-11-10 08:00:00,Central Library,First Floor,Digital Library,60.0,14.0,46.0,23.33,Tuesday,8,SIMULATED
+2026-11-10 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,14.0,66.0,17.5,Tuesday,8,SIMULATED
+2026-11-10 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,12.0,36.0,25.0,Tuesday,8,SIMULATED
+2026-11-10 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,17.0,73.0,18.89,Tuesday,8,SIMULATED
+2026-11-10 08:00:00,Engineering Library,First Floor,Digital Library,40.0,4.0,36.0,10.0,Tuesday,8,SIMULATED
+2026-11-10 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,53.0,97.0,35.33,Tuesday,9,SIMULATED
+2026-11-10 09:00:00,Central Library,First Floor,Digital Library,60.0,18.0,42.0,30.0,Tuesday,9,SIMULATED
+2026-11-10 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,35.0,45.0,43.75,Tuesday,9,SIMULATED
+2026-11-10 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,13.0,35.0,27.08,Tuesday,9,SIMULATED
+2026-11-10 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,33.0,57.0,36.67,Tuesday,9,SIMULATED
+2026-11-10 09:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Tuesday,9,SIMULATED
+2026-11-10 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,94.0,56.0,62.67,Tuesday,10,SIMULATED
+2026-11-10 10:00:00,Central Library,First Floor,Digital Library,60.0,32.0,28.0,53.33,Tuesday,10,SIMULATED
+2026-11-10 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,53.0,27.0,66.25,Tuesday,10,SIMULATED
+2026-11-10 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,22.0,26.0,45.83,Tuesday,10,SIMULATED
+2026-11-10 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,39.0,51.0,43.33,Tuesday,10,SIMULATED
+2026-11-10 10:00:00,Engineering Library,First Floor,Digital Library,40.0,18.0,22.0,45.0,Tuesday,10,SIMULATED
+2026-11-10 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,89.0,61.0,59.33,Tuesday,11,SIMULATED
+2026-11-10 11:00:00,Central Library,First Floor,Digital Library,60.0,37.0,23.0,61.67,Tuesday,11,SIMULATED
+2026-11-10 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,61.0,19.0,76.25,Tuesday,11,SIMULATED
+2026-11-10 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Tuesday,11,SIMULATED
+2026-11-10 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,67.0,23.0,74.44,Tuesday,11,SIMULATED
+2026-11-10 11:00:00,Engineering Library,First Floor,Digital Library,40.0,24.0,16.0,60.0,Tuesday,11,SIMULATED
+2026-11-10 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,98.0,52.0,65.33,Tuesday,12,SIMULATED
+2026-11-10 12:00:00,Central Library,First Floor,Digital Library,60.0,37.0,23.0,61.67,Tuesday,12,SIMULATED
+2026-11-10 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,55.0,25.0,68.75,Tuesday,12,SIMULATED
+2026-11-10 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,23.0,25.0,47.92,Tuesday,12,SIMULATED
+2026-11-10 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,62.0,28.0,68.89,Tuesday,12,SIMULATED
+2026-11-10 12:00:00,Engineering Library,First Floor,Digital Library,40.0,20.0,20.0,50.0,Tuesday,12,SIMULATED
+2026-11-10 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,123.0,27.0,82.0,Tuesday,13,SIMULATED
+2026-11-10 13:00:00,Central Library,First Floor,Digital Library,60.0,42.0,18.0,70.0,Tuesday,13,SIMULATED
+2026-11-10 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,60.0,20.0,75.0,Tuesday,13,SIMULATED
+2026-11-10 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,29.0,19.0,60.42,Tuesday,13,SIMULATED
+2026-11-10 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,68.0,22.0,75.56,Tuesday,13,SIMULATED
+2026-11-10 13:00:00,Engineering Library,First Floor,Digital Library,40.0,25.0,15.0,62.5,Tuesday,13,SIMULATED
+2026-11-10 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,128.0,22.0,85.33,Tuesday,14,SIMULATED
+2026-11-10 14:00:00,Central Library,First Floor,Digital Library,60.0,43.0,17.0,71.67,Tuesday,14,SIMULATED
+2026-11-10 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,73.0,7.0,91.25,Tuesday,14,SIMULATED
+2026-11-10 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,32.0,16.0,66.67,Tuesday,14,SIMULATED
+2026-11-10 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,70.0,20.0,77.78,Tuesday,14,SIMULATED
+2026-11-10 14:00:00,Engineering Library,First Floor,Digital Library,40.0,30.0,10.0,75.0,Tuesday,14,SIMULATED
+2026-11-10 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,134.0,16.0,89.33,Tuesday,15,SIMULATED
+2026-11-10 15:00:00,Central Library,First Floor,Digital Library,60.0,49.0,11.0,81.67,Tuesday,15,SIMULATED
+2026-11-10 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,80.0,0.0,100.0,Tuesday,15,SIMULATED
+2026-11-10 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,40.0,8.0,83.33,Tuesday,15,SIMULATED
+2026-11-10 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,73.0,17.0,81.11,Tuesday,15,SIMULATED
+2026-11-10 15:00:00,Engineering Library,First Floor,Digital Library,40.0,35.0,5.0,87.5,Tuesday,15,SIMULATED
+2026-11-10 16:00:00,Central Library,Ground Floor,Reading Hall,150.0,140.0,10.0,93.33,Tuesday,16,SIMULATED
+2026-11-10 16:00:00,Central Library,First Floor,Digital Library,60.0,49.0,11.0,81.67,Tuesday,16,SIMULATED
+2026-11-10 16:00:00,Central Library,Second Floor,Silent Study Area,80.0,78.0,2.0,97.5,Tuesday,16,SIMULATED
+2026-11-10 16:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,32.0,16.0,66.67,Tuesday,16,SIMULATED
+2026-11-10 16:00:00,Engineering Library,First Floor,Reading Hall,90.0,76.0,14.0,84.44,Tuesday,16,SIMULATED
+2026-11-10 16:00:00,Engineering Library,First Floor,Digital Library,40.0,33.0,7.0,82.5,Tuesday,16,SIMULATED
+2026-11-10 17:00:00,Central Library,Ground Floor,Reading Hall,150.0,115.0,35.0,76.67,Tuesday,17,SIMULATED
+2026-11-10 17:00:00,Central Library,First Floor,Digital Library,60.0,44.0,16.0,73.33,Tuesday,17,SIMULATED
+2026-11-10 17:00:00,Central Library,Second Floor,Silent Study Area,80.0,63.0,17.0,78.75,Tuesday,17,SIMULATED
+2026-11-10 17:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,26.0,22.0,54.17,Tuesday,17,SIMULATED
+2026-11-10 17:00:00,Engineering Library,First Floor,Reading Hall,90.0,60.0,30.0,66.67,Tuesday,17,SIMULATED
+2026-11-10 17:00:00,Engineering Library,First Floor,Digital Library,40.0,26.0,14.0,65.0,Tuesday,17,SIMULATED
+2026-11-10 18:00:00,Central Library,Ground Floor,Reading Hall,150.0,112.0,38.0,74.67,Tuesday,18,SIMULATED
+2026-11-10 18:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Tuesday,18,SIMULATED
+2026-11-10 18:00:00,Central Library,Second Floor,Silent Study Area,80.0,54.0,26.0,67.5,Tuesday,18,SIMULATED
+2026-11-10 18:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,19.0,29.0,39.58,Tuesday,18,SIMULATED
+2026-11-10 18:00:00,Engineering Library,First Floor,Reading Hall,90.0,53.0,37.0,58.89,Tuesday,18,SIMULATED
+2026-11-10 18:00:00,Engineering Library,First Floor,Digital Library,40.0,17.0,23.0,42.5,Tuesday,18,SIMULATED
+2026-11-10 19:00:00,Central Library,Ground Floor,Reading Hall,150.0,78.0,72.0,52.0,Tuesday,19,SIMULATED
+2026-11-10 19:00:00,Central Library,First Floor,Digital Library,60.0,30.0,30.0,50.0,Tuesday,19,SIMULATED
+2026-11-10 19:00:00,Central Library,Second Floor,Silent Study Area,80.0,54.0,26.0,67.5,Tuesday,19,SIMULATED
+2026-11-10 19:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,27.0,21.0,56.25,Tuesday,19,SIMULATED
+2026-11-10 19:00:00,Engineering Library,First Floor,Reading Hall,90.0,44.0,46.0,48.89,Tuesday,19,SIMULATED
+2026-11-10 19:00:00,Engineering Library,First Floor,Digital Library,40.0,22.0,18.0,55.0,Tuesday,19,SIMULATED
+2026-11-10 20:00:00,Central Library,Ground Floor,Reading Hall,150.0,68.0,82.0,45.33,Tuesday,20,SIMULATED
+2026-11-10 20:00:00,Central Library,First Floor,Digital Library,60.0,22.0,38.0,36.67,Tuesday,20,SIMULATED
+2026-11-10 20:00:00,Central Library,Second Floor,Silent Study Area,80.0,39.0,41.0,48.75,Tuesday,20,SIMULATED
+2026-11-10 20:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,15.0,33.0,31.25,Tuesday,20,SIMULATED
+2026-11-10 20:00:00,Engineering Library,First Floor,Reading Hall,90.0,37.0,53.0,41.11,Tuesday,20,SIMULATED
+2026-11-10 20:00:00,Engineering Library,First Floor,Digital Library,40.0,13.0,27.0,32.5,Tuesday,20,SIMULATED
+2026-11-10 21:00:00,Central Library,Ground Floor,Reading Hall,150.0,29.0,121.0,19.33,Tuesday,21,SIMULATED
+2026-11-10 21:00:00,Central Library,First Floor,Digital Library,60.0,8.0,52.0,13.33,Tuesday,21,SIMULATED
+2026-11-10 21:00:00,Central Library,Second Floor,Silent Study Area,80.0,26.0,54.0,32.5,Tuesday,21,SIMULATED
+2026-11-10 21:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,8.0,40.0,16.67,Tuesday,21,SIMULATED
+2026-11-10 21:00:00,Engineering Library,First Floor,Reading Hall,90.0,20.0,70.0,22.22,Tuesday,21,SIMULATED
+2026-11-10 21:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Tuesday,21,SIMULATED
+2026-11-11 08:00:00,Central Library,Ground Floor,Reading Hall,150.0,43.0,107.0,28.67,Wednesday,8,SIMULATED
+2026-11-11 08:00:00,Central Library,First Floor,Digital Library,60.0,13.0,47.0,21.67,Wednesday,8,SIMULATED
+2026-11-11 08:00:00,Central Library,Second Floor,Silent Study Area,80.0,17.0,63.0,21.25,Wednesday,8,SIMULATED
+2026-11-11 08:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,12.0,36.0,25.0,Wednesday,8,SIMULATED
+2026-11-11 08:00:00,Engineering Library,First Floor,Reading Hall,90.0,29.0,61.0,32.22,Wednesday,8,SIMULATED
+2026-11-11 08:00:00,Engineering Library,First Floor,Digital Library,40.0,9.0,31.0,22.5,Wednesday,8,SIMULATED
+2026-11-11 09:00:00,Central Library,Ground Floor,Reading Hall,150.0,71.0,79.0,47.33,Wednesday,9,SIMULATED
+2026-11-11 09:00:00,Central Library,First Floor,Digital Library,60.0,26.0,34.0,43.33,Wednesday,9,SIMULATED
+2026-11-11 09:00:00,Central Library,Second Floor,Silent Study Area,80.0,41.0,39.0,51.25,Wednesday,9,SIMULATED
+2026-11-11 09:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,16.0,32.0,33.33,Wednesday,9,SIMULATED
+2026-11-11 09:00:00,Engineering Library,First Floor,Reading Hall,90.0,38.0,52.0,42.22,Wednesday,9,SIMULATED
+2026-11-11 09:00:00,Engineering Library,First Floor,Digital Library,40.0,15.0,25.0,37.5,Wednesday,9,SIMULATED
+2026-11-11 10:00:00,Central Library,Ground Floor,Reading Hall,150.0,81.0,69.0,54.0,Wednesday,10,SIMULATED
+2026-11-11 10:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Wednesday,10,SIMULATED
+2026-11-11 10:00:00,Central Library,Second Floor,Silent Study Area,80.0,44.0,36.0,55.0,Wednesday,10,SIMULATED
+2026-11-11 10:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,18.0,30.0,37.5,Wednesday,10,SIMULATED
+2026-11-11 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,57.0,33.0,63.33,Wednesday,10,SIMULATED
+2026-11-11 10:00:00,Engineering Library,First Floor,Digital Library,40.0,21.0,19.0,52.5,Wednesday,10,SIMULATED
+2026-11-11 11:00:00,Central Library,Ground Floor,Reading Hall,150.0,122.0,28.0,81.33,Wednesday,11,SIMULATED
+2026-11-11 11:00:00,Central Library,First Floor,Digital Library,60.0,36.0,24.0,60.0,Wednesday,11,SIMULATED
+2026-11-11 11:00:00,Central Library,Second Floor,Silent Study Area,80.0,55.0,25.0,68.75,Wednesday,11,SIMULATED
+2026-11-11 11:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,24.0,24.0,50.0,Wednesday,11,SIMULATED
+2026-11-11 11:00:00,Engineering Library,First Floor,Reading Hall,90.0,61.0,29.0,67.78,Wednesday,11,SIMULATED
+2026-11-11 11:00:00,Engineering Library,First Floor,Digital Library,40.0,23.0,17.0,57.5,Wednesday,11,SIMULATED
+2026-11-11 12:00:00,Central Library,Ground Floor,Reading Hall,150.0,113.0,37.0,75.33,Wednesday,12,SIMULATED
+2026-11-11 12:00:00,Central Library,First Floor,Digital Library,60.0,33.0,27.0,55.0,Wednesday,12,SIMULATED
+2026-11-11 12:00:00,Central Library,Second Floor,Silent Study Area,80.0,59.0,21.0,73.75,Wednesday,12,SIMULATED
+2026-11-11 12:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,20.0,28.0,41.67,Wednesday,12,SIMULATED
+2026-11-11 12:00:00,Engineering Library,First Floor,Reading Hall,90.0,59.0,31.0,65.56,Wednesday,12,SIMULATED
+2026-11-11 12:00:00,Engineering Library,First Floor,Digital Library,40.0,22.0,18.0,55.0,Wednesday,12,SIMULATED
+2026-11-11 13:00:00,Central Library,Ground Floor,Reading Hall,150.0,109.0,41.0,72.67,Wednesday,13,SIMULATED
+2026-11-11 13:00:00,Central Library,First Floor,Digital Library,60.0,38.0,22.0,63.33,Wednesday,13,SIMULATED
+2026-11-11 13:00:00,Central Library,Second Floor,Silent Study Area,80.0,64.0,16.0,80.0,Wednesday,13,SIMULATED
+2026-11-11 13:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,25.0,23.0,52.08,Wednesday,13,SIMULATED
+2026-11-11 13:00:00,Engineering Library,First Floor,Reading Hall,90.0,73.0,17.0,81.11,Wednesday,13,SIMULATED
+2026-11-11 13:00:00,Engineering Library,First Floor,Digital Library,40.0,24.0,16.0,60.0,Wednesday,13,SIMULATED
+2026-11-11 14:00:00,Central Library,Ground Floor,Reading Hall,150.0,133.0,17.0,88.67,Wednesday,14,SIMULATED
+2026-11-11 14:00:00,Central Library,First Floor,Digital Library,60.0,38.0,22.0,63.33,Wednesday,14,SIMULATED
+2026-11-11 14:00:00,Central Library,Second Floor,Silent Study Area,80.0,71.0,9.0,88.75,Wednesday,14,SIMULATED
+2026-11-11 14:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,30.0,18.0,62.5,Wednesday,14,SIMULATED
+2026-11-11 14:00:00,Engineering Library,First Floor,Reading Hall,90.0,71.0,19.0,78.89,Wednesday,14,SIMULATED
+2026-11-11 14:00:00,Engineering Library,First Floor,Digital Library,40.0,32.0,8.0,80.0,Wednesday,14,SIMULATED
+2026-11-11 15:00:00,Central Library,Ground Floor,Reading Hall,150.0,144.0,6.0,96.0,Wednesday,15,SIMULATED
+2026-11-11 15:00:00,Central Library,First Floor,Digital Library,60.0,54.0,6.0,90.0,Wednesday,15,SIMULATED
+2026-11-11 15:00:00,Central Library,Second Floor,Silent Study Area,80.0,80.0,0.0,100.0,Wednesday,15,SIMULATED
+2026-11-11 15:00:00,Engineering Library,Ground Floor,Group Study Area,48.0,33.0,15.0,68.75,Wednesday,15,SIMULATED
+2026-11-11 15:00:00,Engineering Library,First Floor,Reading Hall,90.0,80.0,10.0,88.89,Wednesday,15,SIMULATED
+2026-11-11 15:00:00,Engineering Library,First Floor,Digital Library,40.0,31.0,9.0,77.5,Wednesday,15,SIMULATED
+2026-10-30 10:00:00,Engineering Library,First Floor,Reading Hall,90.0,43.0,47.0,47.78,Friday,10,SIMULATED
+2026-11-01 08:30:00,Central Library,Ground Floor,Reading Hall,150.0,,,,Sunday,8,SIMULATED
+2026-13-45 25:00:00,Engineering Library,First Floor,Digital Library,40.0,4.0,36.0,10.0,Thursday,8,SIMULATED
+2026-11-01 09:30:00,Central Library,Second Floor,Silent Study Area,80.0,175.0,-25.0,116.67,Sunday,9,SIMULATED
+2026-11-01 10:30:00,Central Library,First Floor,Digital Library,60.0,-4.0,52.0,-8.33,Sunday,10,SIMULATED
+2026-11-01 11:30:00,Engineering Library,First Floor,Reading Hall,,72.0,18.0,80.0,Sunday,11,SIMULATED
